@@ -15,3 +15,7 @@ tell application "Finder"
 	close access fid
 end tell
 fileNames
+
+--- http://www.scriptogr.am/unforswearing
+--- http://www.github.com/unforswearing
+--- notes@theforeverarrow.com
