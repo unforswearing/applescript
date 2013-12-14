@@ -1,4 +1,5 @@
--- if, for some reason, you wanted to wanted to have a simple GUI for the built in screen capture tool
+--- if, for some reason, you wanted to wanted to have a simple GUI for the built in screen capture tool
+--- helpful for old people, children, or the chronically lazy
 
 display dialog "This script uses your computers built-in screencapture tool. This script saves the file to your desktop by default."
 
