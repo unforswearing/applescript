@@ -1,5 +1,6 @@
 --- this script depends on the application "Caffeine"
 --- the script also uses the 12 hour clock
+--- you must adjust the script to your screen size
 --- for other details, head on over to http://scriptogr.am/unforswearing/post/camtasia-autorecord-timer-script
 
 set stanswer to text returned of (display dialog "What time do you want the recording to start?" default answer "")
@@ -34,10 +35,6 @@ tell application "Finder"
 	end repeat
 end tell
 
---- http://www.scriptogr.am/unforswearing
---- http://www.github.com/unforswearing
---- notes@theforeverarrow.com
-
 tell application "Caffeine"
 	turn off
 	tell application "Camtasia 2"
@@ -60,4 +57,6 @@ tell application "Caffeine"
 	end tell
 end tell
 
-
+--- http://www.scriptogr.am/unforswearing
+--- http://www.github.com/unforswearing
+--- notes@theforeverarrow.com
