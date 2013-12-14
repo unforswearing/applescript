@@ -1,4 +1,5 @@
---- this script depends on the Caffeine application
+--- this script depends on the application "Caffeine"
+--- the script also uses the 12 hour clock
 --- for other details, head on over to http://scriptogr.am/unforswearing/post/camtasia-autorecord-timer-script
 
 set stanswer to text returned of (display dialog "What time do you want the recording to start?" default answer "")
