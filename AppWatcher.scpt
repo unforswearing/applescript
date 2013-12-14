@@ -1,7 +1,7 @@
 --- Choose an application to watch
 --- Choose an application to open when this application is activated
---- Set to stay open when saving application 
---- NOTE: does not seem to work if the application name contains spaces. Looking for a workaround. 
+--- Can also be used for watching/launching documents/files/scripts (ostensibly. hasn't been tested)
+--- NOTE: sometimes does not work with applications that have multiple names
 
 tell application "Finder"
 	
