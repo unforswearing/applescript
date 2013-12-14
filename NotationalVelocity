@@ -1,3 +1,5 @@
+--- A collection of four applescripts to automate/GUI script Notational Velocity. I use keybindings to launch these, but they could easily be put in the dock or loaded on start up or whatever you want to do. Its your world. 
+
 --- Copy To NV automatically copies text from your current application and pastes it into Notational Velocity as a new note, and allows you to create a title for your new note via Applescript dialog.
 
 tell application "System Events"
