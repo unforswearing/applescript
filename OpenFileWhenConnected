@@ -1,5 +1,5 @@
 --- open a file when you regain an internet connection on your computer
---- the app will stay open and ping google until a connection has been established
+--- the script will stay open and ping google until a connection has been established
 
 
 set _choisir to button returned of (display dialog "Choose a file to open when you regain an internet connection" with icon note buttons {"OK", "Nevermind"} default button "OK" giving up after 10)
