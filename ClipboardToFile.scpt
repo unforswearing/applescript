@@ -1,4 +1,4 @@
---- automatically saves the contents of the clipboard to a text file.
+--- automatically saves the text contents of the clipboard to a text file.
 --- be sure to specify an extension (e.g. use HTML if you want to save the copied text as a webpage)
 
 set d to the clipboard as «class utf8»
