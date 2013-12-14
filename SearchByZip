@@ -1,4 +1,4 @@
--- uses the Location Helper application to search for a city by zipcode
+--- uses the Location Helper application to search for a city by zipcode
 
 tell application "Finder"
 	activate
