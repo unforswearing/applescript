@@ -13,3 +13,7 @@ tell application "Finder"
 	end tell
 	display dialog "Search Results: " & futureLocation with icon note buttons {"OK"} default button {"OK"}
 end tell
+
+--- http://www.scriptogr.am/unforswearing
+--- http://www.github.com/unforswearing
+--- notes@theforeverarrow.com
