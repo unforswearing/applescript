@@ -75,3 +75,7 @@ end tell
 tell application "Notational Velocity"
     activate
 end tell
+
+--- http://www.scriptogr.am/unforswearing
+--- http://www.github.com/unforswearing
+--- notes@theforeverarrow.com
