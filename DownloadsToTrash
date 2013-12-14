@@ -1,5 +1,5 @@
--- move all downlaods to trash and enmpy (with prompt)
--- from http://community.spiceworks.com/scripts/show/236-applescript-to-delete-files-in-specified-folder-that-are-older-than-30-days
+--- move all downlaods to trash and enmpy (with prompt)
+--- from http://community.spiceworks.com/scripts/show/236-applescript-to-delete-files-in-specified-folder-that-are-older-than-30-days
 set modDate to (1)
 tell application "System Events"
 	set currentUser to (name of current user)
