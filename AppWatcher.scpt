@@ -1,4 +1,3 @@
-
 --- Choose an application to watch
 --- Choose an application to open when this application is activated
 --- Set to stay open when saving application 
