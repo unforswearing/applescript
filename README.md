@@ -8,7 +8,8 @@ My infrequently updated applescript blog -- http://www.scriptogr.am/unforswearin
 Some of these scripts use:  
 
 - Location Helper: http://www.mousedown.net/mouseware/LocationHelper.html  
-- Caffeine: http://lightheadsw.com/caffeine/ (which appears to be down now, but go to -->) http://macdownload.informer.com/Dev/lighthead-software/
+- Caffeine: http://lightheadsw.com/caffeine/ 
+- (if the above Caffeine link is down, http://macdownload.informer.com/Dev/lighthead-software/ should be OK)
 
 
 =============
