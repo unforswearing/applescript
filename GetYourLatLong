@@ -1,5 +1,5 @@
--- Find the lat and long of an address using the Location Helper application, and optionally copy the data to the clipboard or search with google
--- really sorry for the crappy variable names...
+--- Find the lat and long of an address using the Location Helper application, and optionally copy the data to the clipboard or search with google
+--- really sorry for the crappy variable names...
 
 tell application "Finder"
 	activate
