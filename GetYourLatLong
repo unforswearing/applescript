@@ -35,3 +35,7 @@ tell application "Finder"
 		set AppleScript's text item delimiters to tid
 	end if
 end tell
+
+--- http://www.scriptogr.am/unforswearing
+--- http://www.github.com/unforswearing
+--- notes@theforeverarrow.com
