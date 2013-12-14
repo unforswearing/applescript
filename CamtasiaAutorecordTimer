@@ -34,6 +34,10 @@ tell application "Finder"
 	end repeat
 end tell
 
+--- http://www.scriptogr.am/unforswearing
+--- http://www.github.com/unforswearing
+--- notes@theforeverarrow.com
+
 tell application "Caffeine"
 	turn off
 	tell application "Camtasia 2"
