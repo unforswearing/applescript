@@ -1,4 +1,5 @@
 --- Closes extraneous chrome tabs
+
 tell application "Google Chrome"
 	set windowList to every tab of every window whose URL starts with "http"
 	repeat with tabList in windowList
