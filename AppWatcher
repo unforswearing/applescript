@@ -1,3 +1,4 @@
+
 --- Choose an application to watch
 --- Choose an application to open when this application is activated
 --- Set to stay open when saving application 
@@ -41,3 +42,7 @@ tell application "Finder"
 		end tell
 	end repeat
 end tell
+
+--- http://www.scriptogr.am/unforswearing
+--- http://www.github.com/unforswearing
+--- notes@theforeverarrow.com
