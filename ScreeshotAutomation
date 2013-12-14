@@ -28,3 +28,7 @@ if theChoice contains "Defined Area" then
     display alert "Use your mouse to move the crosshairs, and click to highlight the area of the sreen you would like to capture"
     do shell script "screencapture -s ~/Desktop/" & newIMGname & ".png"
 end if
+
+--- http://www.scriptogr.am/unforswearing
+--- http://www.github.com/unforswearing
+--- notes@theforeverarrow.com
