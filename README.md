@@ -5,4 +5,11 @@ A collection of various applescripts I have created.
 
 My infrequently updated applescript blog -- http://www.scriptogr.am/unforswearing
 
-I use Location Helper a lot -- http://www.mousedown.net/mouseware/LocationHelper.html
+Some of these scripts use:  
+
+- Location Helper: http://www.mousedown.net/mouseware/LocationHelper.html  
+- Caffeine: http://lightheadsw.com/caffeine/ (which appears to be down now, but go to -->) http://macdownload.informer.com/Dev/lighthead-software/
+
+
+=============
+Looking for Pandoc scripts, if they are available. 
