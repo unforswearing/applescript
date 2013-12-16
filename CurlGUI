@@ -1,4 +1,5 @@
 --- Simple GUI for the curl command
+--- Saves output to a text file with a name of your choosing
 
 set website to text returned of (display dialog "Copy code from where?" default answer "http://")
 set curl to do shell script "curl " & website & ""
