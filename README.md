@@ -35,7 +35,11 @@ Location Helper: http://www.mousedown.net/mouseware/LocationHelper.html
 
 Caffeine: http://lightheadsw.com/caffeine/ (if the lighthead link is down, http://macdownload.informer.com/caffeine/ should be OK)
 
-Also, if you are running a newer version of OSX (I'm on Lion), you can replace the Caffeine application with the caffeinate command -- ```$ caffeinate -t 180`` (where 180 is however many seconds you need the command to run. 
+Also, if you are running a newer version of OSX (I'm on Lion), you can replace the Caffeine application with the caffeinate command 
+
+```$ caffeinate -t 180`` 
+
+where 180 is however many seconds you need the command to run. 
 
 <BR>
 ###"legal"
