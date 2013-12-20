@@ -35,11 +35,11 @@ Location Helper: http://www.mousedown.net/mouseware/LocationHelper.html
 
 Caffeine: http://lightheadsw.com/caffeine/ (if the lighthead link is down, http://macdownload.informer.com/caffeine/ should be OK)
 
-Also, if you are running a newer version of OSX (10.8 and up), you can replace the Caffeine application with the caffeinate command 
+Also, if you are running a newer version of OSX (10.8 and up), you can replace the Caffeine application with the caffeinate command: 
 
 ``$ caffeinate -t 180`` 
 
-where 180 is however many seconds you need the command to run. 
+where ``180`` is however many seconds you want to disable the screensaver/sleep. 
 
 <BR>
 ###"legal"
