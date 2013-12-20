@@ -28,7 +28,7 @@ Scripts to enhance my limited terminal usage.
 A few Notational Velocity scripts. 
 
 <BR>
-###other things
+###links
 [My infrequently updated applescript blog](http://www.scriptogr.am/unforswearing)
 
 [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html)  
