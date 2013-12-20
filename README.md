@@ -2,7 +2,7 @@ applescript
 ============
 <BR>
 ###overview
-A collection of various applescripts I have created. 
+A collection of various applescripts I have created. I try to keep them as general as possible (meaning: most of these could be considered system services) so that they could be useful to as many people as possible. 
 
 <BR>
 ###scripts 
