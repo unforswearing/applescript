@@ -1,6 +1,7 @@
 --- this script depends on the application "Caffeine"
+--- in 10.8 and up, you can substitute this application for the "caffeinate" terminal command
 --- the script also uses the 12 hour clock
---- you must adjust the script to your screen size
+--- you must adjust the script to your screen
 --- for other details, head on over to http://scriptogr.am/unforswearing/post/camtasia-autorecord-timer-script
 
 set stanswer to text returned of (display dialog "What time do you want the recording to start?" default answer "")
