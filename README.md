@@ -33,13 +33,8 @@ A few Notational Velocity scripts.
 
 [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html)  
 
-[Caffeine App](http://lightheadsw.com/caffeine/) or [here](http://macdownload.informer.com/caffeine)
-
-Also, if you are running a newer version of OSX (10.8 and up), you can replace the Caffeine application with the [caffeinate command](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man8/caffeinate.8.html): 
-
-``$ caffeinate -t 180`` 
-
-where ``180`` is however many seconds you want to disable the screensaver/sleep. 
+[Caffeine App](http://lightheadsw.com/caffeine/) or [here](http://macdownload.informer.com/caffeine)  
+  - if you are running a newer version of OSX (10.8 and up), you can replace the Caffeine application with the [caffeinate command](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man8/caffeinate.8.html): ``$ caffeinate -t 180`` where ``180`` is however many seconds you want to disable the screensaver/sleep.
 
 <BR>
 ###"legal"
