@@ -3,7 +3,7 @@ applescript
 
 ###overview
 A collection of various applescripts I have created. 
-<BR>
+
 
 ###scripts 
 ============
@@ -27,9 +27,10 @@ Scripts to enhance my limited terminal usage.
 
 **Notational Velocity**  
 A few Notational Velocity scripts. 
-<BR>
-============
+
+
 ###other things
+============
 
 My infrequently updated applescript blog -- http://www.scriptogr.am/unforswearing
 
@@ -39,14 +40,13 @@ Caffeine: http://lightheadsw.com/caffeine/ (if the lighthead link is down, http:
 
 Also, if you are running a newer version of OSX (I'm on Lion), you can replace the Caffeine application with the caffeinate command. 
 
-<BR>
+
 ###"legal"
 ============
 
 All scripts are provided AS IS without warranty, etc, etc. 
-<BR>
-___
 
-<BR>
+
 ###wish list
+============
 Looking for Pandoc scripts, if they are available. 
