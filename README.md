@@ -37,7 +37,7 @@ A few Notational Velocity scripts.
   - if you are running a newer version of OSX (10.8 and up), you can replace the Caffeine application with the [caffeinate command](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man8/caffeinate.8.html): ``$ caffeinate -t 180`` where ``180`` is however many seconds you want to disable the screensaver/sleep.
 
 <BR>
-###"legal"
+###legal
 All scripts are provided AS IS without warranty, etc, etc. 
 
 <BR>
