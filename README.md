@@ -8,25 +8,25 @@ ___
 <BR>
 ###scripts 
 
-**Templates**
+**Templates**  
 A collection of sketches and beginnings of scripts
 
-**Sounds Scripts**
+**Sounds Scripts**  
 Scripts to adjust the speaker and microphone without opening System Preferences
 
-**Location Helper Scripts**
+**Location Helper Scripts**  
 A few scripts that use the Location Helper application
 
-**Application Services**
+**Application Services**  
 Two scripts currently: watch and app for changes/Shutdown an application on a timer.
 
-**File and Folder Actions**
+**File and Folder Actions**  
 Several scripts I deploy as services. 
 
-**Terminal GUI**
+**Terminal GUI**  
 Scripts to enhance my limited terminal usage.
 
-**Notational Velocity**
+**Notational Velocity**  
 A few Notational Velocity scripts. 
 <BR>
 ___
