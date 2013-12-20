@@ -27,6 +27,12 @@ Scripts to enhance my limited terminal usage.
 **Notational Velocity**  
 A few Notational Velocity scripts. 
 
+**Camtasia Auto Record Timer.scpt**  
+A script that uses a few items from the hidden applescript dictionary for Camtasia. Useful for when you need to capture video of something happening on the screen, but won't be around to do it manually. May be variably functional, though the last few tests were successful. 
+
+**Google Chrome Tab Closer.scpt**
+Does what it says, though more specifically, it closes all but the current tab. 
+
 <BR>
 ###links
 [My infrequently updated applescript blog](http://www.scriptogr.am/unforswearing)
