@@ -6,31 +6,31 @@ A collection of various applescripts I have created. I try to keep them as gener
 
 <BR>
 ###scripts 
-**Templates**  
+∫∫ **Templates**  
 A collection of sketches and beginnings of scripts
 
-**Sounds Scripts**  
+∫∫ **Sounds Scripts**  
 Scripts to adjust the speaker and microphone without opening System Preferences
 
-**Location Helper Scripts**  
+∫∫ **Location Helper Scripts**  
 A few scripts that use the Location Helper application
 
-**Application Services**  
+∫∫ **Application Services**  
 Two scripts currently: watch and app for changes/Shutdown an application on a timer.
 
-**File and Folder Actions**  
+∫∫ **File and Folder Actions**  
 Several scripts I deploy as services. 
 
-**Terminal GUI**  
+∫∫ **Terminal GUI**  
 Scripts to enhance my limited terminal usage.
 
-**Notational Velocity**  
+∫∫ **Notational Velocity**  
 A few Notational Velocity scripts. 
 
-**Camtasia Auto Record Timer.scpt**  
+∫∫ **Camtasia Auto Record Timer.scpt**  
 A script that uses a few items from the hidden applescript dictionary for Camtasia. Useful for when you need to capture video of something happening on the screen, but won't be around to do it manually. May be variably functional, though the last few tests were successful. 
 
-**Google Chrome Tab Closer.scpt**
+∫∫ **Google Chrome Tab Closer.scpt**  
 Does what it says, though more specifically, it closes all but the current tab. 
 
 <BR>
