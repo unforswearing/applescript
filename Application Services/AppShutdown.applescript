@@ -13,7 +13,7 @@ set hhour to tymer * tymer
 delay hhour * danswer
 tell application applic to quit
 
-
+ 
 --- http://www.scriptogr.am/unforswearing
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com
