@@ -11,6 +11,8 @@ Close Applications
     - For example: "kill iTunes"
 2. Press "Go" or the enter button on your keyboard
 3. Be relieved as your application closes
+
+If you opened the script by accident, you can close it by simply pressing the enter button on your keyboard. 
 *)
 
 
