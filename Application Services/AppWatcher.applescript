@@ -41,7 +41,7 @@ tell application "Finder"
 		end tell
 	end repeat
 end tell
-
+ 
 --- http://www.scriptogr.am/unforswearing
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com
