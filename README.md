@@ -16,7 +16,7 @@ Scripts to adjust the speaker and microphone without opening System Preferences
 A few scripts that use the Location Helper application
 
 ∫∫ **Application Services**  
-watch applications, quit applications on a timer, launch or quit applications via dialog box 
+launch, watch, and quit applications via several scripts
 
 ∫∫ **File and Folder Actions**  
 Several scripts I deploy as services. 
