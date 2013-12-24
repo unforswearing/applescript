@@ -33,7 +33,7 @@ A script that uses a few items from the hidden applescript dictionary for Camtas
 ∫∫ **Google Chrome Tab Closer.scpt**  
 Does what it says, though more specifically, it closes all tabs, but keeps the application open. 
 
-∫∫ **From Chrome to Safari**  
+∫∫ **Chrome to Safari**  
 A (comparatively) simplified version of many of the "Send URL to Safari" scripts I have seen. 
 
 <BR>
