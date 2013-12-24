@@ -9,8 +9,8 @@ tell application "Safari"
 	activate
 	open location _ChURL
 end tell
-tell application "Google Chrome"
-	activate
-end tell
-end
+--- tell application "Google Chrome"
+---	activate
+--- end tell
+
 
