@@ -2,7 +2,7 @@ applescript
 ============
 <BR>
 ###overview
-A collection of various applescripts I have created. I try to keep them as general as possible (meaning: most of these could be considered system services) so that they could be useful to as many people as possible. 
+A collection of various applescripts I have created. I try to keep them as general as possible (meaning: most of these could be considered system services) so that they could be useful to as many people as possible.
 
 <BR>
 ###scripts 
@@ -31,7 +31,10 @@ A few Notational Velocity scripts.
 A script that uses a few items from the hidden applescript dictionary for Camtasia. Useful for when you need to capture video of something happening on the screen, but won't be around to do it manually. May be variably functional, though the last few tests were successful. 
 
 ∫∫ **Google Chrome Tab Closer.scpt**  
-Does what it says, though more specifically, it closes all but the current tab. 
+Does what it says, though more specifically, it closes all tabs, but keeps the application open. 
+
+∫∫ **From Safarit to Chrome**
+A (comparatively) simplified version of many of the "Send URL to Safari" scripts I have seen. 
 
 <BR>
 ###links
