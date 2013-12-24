@@ -3,7 +3,7 @@
 --- enter app name and press the enter button on your keyboard or press the Go button
 --- hit the enter button if you don't want to kill anything
 --- added a way to find the process ID of hung applications and force quit using the "kill -KILL" command. 
----	may not work with applications that have many similarly named processes running (like Google Chrome "helper" or "renderer")
+---	may not work with applications that have many similarly named processes running (like "Google Chrome Helper" or "Google Chrome Renderer")
 
 
 activate
