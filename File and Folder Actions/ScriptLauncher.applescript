@@ -1,6 +1,6 @@
 --- a "launcher" for applescripts
 --- enter the name of the script you would like to run and click "OK" or press the enter button on your keyboard
---- case does not matter, but spaces/special characters do
+--- case does not matter, but spaces/special characters do. be sure to enter the script name exactly as it was saved. 
 --- this script will automatically add the ".scpt" extension to the name you enter.
 --- default path is to a "scripts" folder located in Documents. Edit this line to relect the location of your scripts folder
 
