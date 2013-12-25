@@ -27,6 +27,9 @@ Scripts to enhance my limited terminal usage.
 ∫∫ **Notational Velocity**  
 A few Notational Velocity scripts. 
 
+∫∫ **Pandoc and Textutils**  
+Scripts that use the above mentioned command line tools to convert documents to different formats. 
+
 ∫∫ **Camtasia Auto Record Timer.scpt**  
 A script that uses a few items from the hidden applescript dictionary for Camtasia. Useful for when you need to capture video of something happening on the screen, but won't be around to do it manually. May be variably functional, though the last few tests were successful. 
 
@@ -40,15 +43,14 @@ A (comparatively) simplified version of many of the "Send URL to Safari" scripts
 ###links
 [My infrequently updated applescript blog](http://www.scriptogr.am/unforswearing)
 
-[Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html)  
+[Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) - use core location in applescripts.  
 
-[Caffeine App](http://lightheadsw.com/caffeine/) or [here](http://macdownload.informer.com/caffeine)  
+[Caffeine App](http://lightheadsw.com/caffeine/) (or [here](http://macdownload.informer.com/caffeine)) - a menu bar application that prevents your monitor from sleeping. 
   - if you are running a newer version of OSX (10.8 and up), you can replace the Caffeine application with the [caffeinate command](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man8/caffeinate.8.html): ``$ caffeinate -t 180`` where ``180`` is however many seconds you want to disable the screensaver/sleep.
+
+[Pandoc](http://johnmacfarlane.net/pandoc/) - document conversion via the command line. 
 
 <BR>
 ###legal
-All scripts are provided AS IS without warranty, etc, etc. 
+All scripts are provided AS IS without warranty, etc, etc. All scripts tested on 10.6 and 10.7, and there is a chance that they will not work with newer versions of OSX. Take the plunge. 
 
-<BR>
-###wish list
-Looking for Pandoc scripts, if they are available. Let me fork you(r project). 
