@@ -40,15 +40,16 @@ Does what it says, though more specifically, it closes all tabs, but keeps the a
 A (comparatively) simplified version of many of the "Send URL to Safari" scripts I have seen. 
 
 <BR>
-###links
-[Caffeine App](http://lightheadsw.com/caffeine/) (or [here](http://macdownload.informer.com/caffeine)) - a menu bar application that prevents your monitor from sleeping. 
+###links/dependencies  
+
+- [Caffeine App](http://lightheadsw.com/caffeine/) (or [here](http://macdownload.informer.com/caffeine)) - a menu bar application that prevents your monitor from sleeping. 
   - if you are running a newer version of OSX (10.8 and up), you can replace the Caffeine application with the [caffeinate command](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man8/caffeinate.8.html): ``$ caffeinate -t 180`` where ``180`` is however many seconds you want to disable the screensaver/sleep.
 
-[Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) - use core location in applescripts.  
+- [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) - use core location in applescripts.  
 
-[Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line. 
+- [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line. 
 
-Details about my amateur scripting successes can be found on my [Applescript blog](http://www.scriptogr.am/unforswearing)
+- Details about my amateur scripting successes can be found on my [Applescript blog](http://www.scriptogr.am/unforswearing)
 
 
 <BR>
