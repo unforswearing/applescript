@@ -6,29 +6,32 @@ A collection of various applescripts I have created. I try to keep them general 
 
 <BR>
 ###scripts 
-∫∫ **Templates**  
-A collection of sketches and beginnings of scripts
-
-∫∫ **Sounds Scripts**  
-Scripts to adjust the speaker and microphone without opening System Preferences
-
-∫∫ **Location Helper Scripts**  
-A few scripts that use the Location Helper application
-
 ∫∫ **Application Services**  
 launch, watch, and quit applications via several scripts
 
 ∫∫ **File and Folder Actions**  
 Several scripts I deploy as services. 
 
-∫∫ **Terminal GUI**  
-Scripts to enhance my limited terminal usage.
+∫∫ **Location Helper Scripts**  
+A few scripts that use the Location Helper application
 
 ∫∫ **Notational Velocity**  
 A few Notational Velocity scripts. 
 
 ∫∫ **Pandoc and Textutils**  
 Scripts that use the above mentioned command line tools to convert documents to different formats. 
+
+∫∫ **Sounds Scripts**  
+Scripts to adjust the speaker and microphone without opening System Preferences
+
+∫∫ **Temperature Conversion**    
+Convert temperature between Fahrenheit and Celsius (and others soon). 
+
+∫∫ **Templates**  
+A collection of sketches and beginnings of scripts
+
+∫∫ **Terminal GUI**  
+Scripts to enhance my limited terminal usage.
 
 ∫∫ **Camtasia Auto Record Timer.scpt**  
 A script that uses a few items from the hidden applescript dictionary for Camtasia. Useful for when you need to capture video of something happening on the screen, but won't be around to do it manually. May be variably functional, though the last few tests were successful. 
