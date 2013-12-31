@@ -1,5 +1,5 @@
 --- uses Pandoc to convert a markdown file to rtf (via HTML and textutils)
---- this is a sloppy solution to converting files, but it seems to work decently
+--- this is a sloppy solution to converting files (they have to be saved in the same dir), but it seems to work decently
 
 set source_file to choose file with prompt "Where is the markdown file?" of type {"md", "markdown"}
 set path_file to POSIX path of source_file
