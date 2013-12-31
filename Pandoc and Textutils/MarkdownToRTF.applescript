@@ -1,11 +1,12 @@
 --- uses Pandoc to convert a markdown file to rtf (via HTML and textutils)
---- this is a sloppy solution to converting files (they have to be saved in the same dir), but it seems to work decently
+--- V.1 this is a sloppy solution to converting files (they have to be saved in the same dir), but it seems to work decently
+--- Current version below has fixed issues with spaces in file/folder names and allows file to be saved in any directory. 
 
 set source_file to choose file with prompt "Where is the markdown file?" of type {"md", "markdown"}
-set path_file to POSIX path of source_file
+set path_file to quoted form of POSIX path of source_file
 
 set dest_file to choose folder with prompt "Where to save the RTF file?"
-set dest_file to POSIX path of dest_file
+set dest_file to quoted form of POSIX path of dest_file
 
 tell application "Finder" to set {dispName, nameExt, isHidden} to the {displayed name, name extension, extension hidden} of source_file
 if isHidden or nameExt is equal to "" then
@@ -16,7 +17,6 @@ end if
 set baseName to result
 
 do shell script "/usr/local/bin/pandoc -f markdown " & path_file & " -t html -o " & dest_file & baseName & ".html"
-
 set tempHTML to dest_file & baseName & ".html"
 do shell script "textutil -convert rtf " & tempHTML
 do shell script "rm " & tempHTML
