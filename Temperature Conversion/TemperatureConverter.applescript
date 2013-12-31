@@ -1,8 +1,5 @@
 --- Convert temperatures between Celsius, Fahrenheit, and Kelvin
 
---- Temperature conversion to various formats choose from a list (starting temp type and result temp type)
---- choose some temps other than F and C
-
 set whichconv to choose from list {"Celsius to Fahrenheit", "Celsius to Kelvin", "Fahrenheit to Celsius", "Fahrenheit to Kelvin", "Kelvin to Celsius", "Kelvin to Fahrenheit"}
 set whichconv to whichconv as text
 
