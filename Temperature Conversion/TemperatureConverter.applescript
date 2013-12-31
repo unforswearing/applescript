@@ -13,7 +13,7 @@ else if whichconv is "Celsius to Fahrenheit" then
 	display dialog "The temperature is " & conversion1 & " Fahrenheit" buttons {"Ok"} default button "Ok"
 else if whichconv is "Fahrenheit to Kelvin" then
 	set ftemp to text returned of (display dialog "Convert Fahrenheit to Kelvin" default answer "" buttons {"Cancel", "Convert"} default button "Convert")
-	set conversion1 to (ftemp + 459.67) * (5 / 9)
+	set conversion1 to (ftemp + 459.67) * 0.5555555556
 	display dialog "The temperature is " & conversion1 & " Kelvin" buttons {"Ok"} default button "Ok"
 else if whichconv is "Kelvin to Fahrenheit" then
 	set ftemp to text returned of (display dialog "Convert Fahrenheit to Kelvin" default answer "" buttons {"Cancel", "Convert"} default button "Convert")
