@@ -16,10 +16,25 @@ else
 end if
 set baseName to result
 
-do shell script "/usr/local/bin/pandoc -f markdown " & path_file & " -t html -o " & dest_file & baseName & ".html"
+try
+	do shell script "/usr/local/bin/pandoc -f markdown " & path_file & " -t html -o " & dest_file & baseName & ".html"
+on error
+	display alert "The file " & baseName & " failed to convert!"
+end try
+
 set tempHTML to dest_file & baseName & ".html"
-do shell script "textutil -convert rtf " & tempHTML
-do shell script "rm " & tempHTML
+
+try
+	do shell script "textutil -convert rtf " & tempHTML
+on error
+	display alert "The file " & tempHTML & " failed to convert!"
+end try
+
+try
+	do shell script "rm " & tempHTML
+on error
+	display alert "The file " & tempHTML & " could not be deleted!"
+end try
 
 --- http://www.scriptogr.am/unforswearing
 --- http://www.github.com/unforswearing
