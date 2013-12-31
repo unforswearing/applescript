@@ -6,13 +6,12 @@ if termcommand contains "" then
 	error number -128
 else if termcommand contains termcommand then
 	try
-		do shell script termcommand
+		set resultdisp to do shell script termcommand
+		display alert resultdisp
 	on error
 		display alert "Your command failed to execute"
 	end try
 end if
-
-
 
 --- http://www.scriptogr.am/unforswearing
 --- http://www.github.com/unforswearing
