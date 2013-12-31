@@ -5,7 +5,7 @@
 --- added a way to find the process ID of hung applications and force quit using the "kill -KILL" command. 
 ---	may not work with applications that have many similarly named processes running (like "Google Chrome Helper" or "Google Chrome Renderer")
 
-
+ 
 activate
 set applaunch to text returned of (display dialog "" default answer "" buttons {"Go"} default button "Go")
 if applaunch contains "" then
