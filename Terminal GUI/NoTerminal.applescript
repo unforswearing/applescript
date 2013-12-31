@@ -5,8 +5,13 @@ set termcommand to text returned of (display dialog "Enter a command to run:" de
 if termcommand contains "" then
 	error number -128
 else if termcommand contains termcommand then
-	do shell script termcommand
+	try
+		do shell script termcommand
+	on error
+		display alert "Your command failed to execute"
+	end try
 end if
+
 
 
 --- http://www.scriptogr.am/unforswearing
