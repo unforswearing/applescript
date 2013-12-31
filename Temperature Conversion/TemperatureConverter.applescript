@@ -1,5 +1,8 @@
 --- Convert temperatures between Celsius, Fahrenheit, and Kelvin
 
+--- Temperature conversion to various formats choose from a list (starting temp type and result temp type)
+--- choose some temps other than F and C
+
 set whichconv to choose from list {"Celsius to Fahrenheit", "Celsius to Kelvin", "Fahrenheit to Celsius", "Fahrenheit to Kelvin", "Kelvin to Celsius", "Kelvin to Fahrenheit"}
 set whichconv to whichconv as text
 
@@ -26,7 +29,7 @@ else if whichconv is "Celsius to Kelvin" then
 else if whichconv is "Kelvin to Celsius" then
 	set ftemp to text returned of (display dialog "Convert Celsius to Kelvin" default answer "" buttons {"Cancel", "Convert"} default button "Convert")
 	set conversion1 to (ftemp - 273.15)
-	display dialog "The temperature is " & conversion1 & " Kelvin" buttons {"Ok"} default button "Ok"
+	display dialog "The temperature is " & conversion1 & " Celsius" buttons {"Ok"} default button "Ok"
 end if
 
 --- http://www.scriptogr.am/unforswearing
