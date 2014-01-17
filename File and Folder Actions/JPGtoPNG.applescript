@@ -1,7 +1,7 @@
 --- converts jpg images to png
---- untested with other image formats
+--- the script removes 3 letter file extensions, so it should work with any image files fitting that criteria (tested with bmp and jpg).
 --- general use: select a jpg file in finder, run the script, the script makes a copy of the file as png, saves to same dir as orignal file. 
---- my use: saved as an application and added to the finder toolbar
+--- my use: saved as an application and added to the finder toolbar (it doesn't want to work as a service, for some reason)
 
 	set pathFile to selection as alias
 	set pathFile to quoted form of POSIX path of pathFile
@@ -16,6 +16,8 @@
 	
 	do shell script "sips -s format png " & pathFile & " --out " & destFolder
 	
+	
+--- see also: Terminal GUI - https://github.com/unforswearing/applescript/tree/master/Terminal%20GUI
 	
 --- http://www.scriptogr.am/unforswearing
 --- http://www.github.com/unforswearing
