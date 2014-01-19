@@ -1,6 +1,6 @@
 --- converts images from/to common formats
 --- select an image file in finder, choose the format you want to conver to 
---- the script will create a new file of your chosen format in the same dir 
+--- the script uses the 'sips' command to create a new file of your chosen format in the same dir 
 --- need a workaround for 4 letter extensions (e.g. tiff)
 
 tell application "Finder"
