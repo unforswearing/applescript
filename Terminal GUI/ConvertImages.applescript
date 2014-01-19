@@ -18,7 +18,7 @@ tell application "Finder"
 	set destFolder to destFolder & "/" & baseName & "." & fmt
 	set destFolder to quoted form of destFolder
 	
-	do shell script "sips -s format png " & pathFile & " --out " & destFolder
+	do shell script "sips -s format " & fmt & " " & pathFile & " --out " & destFolder
 	
 end tell
 
