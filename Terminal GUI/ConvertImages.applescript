@@ -10,16 +10,25 @@ tell application "Finder"
 	
 	set fmt to choose from list {"bmp", "gif", "png"} with prompt "Convert to:"
 	
-	set destFolder to do shell script "dirname " & pathFile
-	set baseName to do shell script "basename " & pathFile
-	set baseName to text 1 thru -5 of baseName
-	
-	
-	set destFolder to destFolder & "/" & baseName & "." & fmt
-	set destFolder to quoted form of destFolder
-	
-	do shell script "sips -s format " & fmt & " " & pathFile & " --out " & destFolder
-	
+	if fmt is false then
+		error number -128
+		
+	else
+		try
+			set destFolder to do shell script "dirname " & pathFile
+			set baseName to do shell script "basename " & pathFile
+			set baseName to text 1 thru -5 of baseName
+			
+			
+			set destFolder to destFolder & "/" & baseName & "." & fmt
+			set destFolder to quoted form of destFolder
+			
+			do shell script "sips -s format " & fmt & " " & pathFile & " --out " & destFolder
+			
+		on error
+			display dialog "You did not select an image, or it has failed to convert!" buttons {"Ok"} with icon stop
+		end try
+	end if
 end tell
 
 --- http://www.scriptogr.am/unforswearing
