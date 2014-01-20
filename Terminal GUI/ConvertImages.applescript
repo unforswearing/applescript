@@ -29,6 +29,17 @@ tell application "Finder"
 			display dialog "You did not select an image, or it has failed to convert!" buttons {"Ok"} with icon stop
 		end try
 	end if
+	
+	set doDel to button returned of (display dialog "Delete original?" buttons {"Keep", "Delete"} default button "Delete")
+	
+	
+	if doDel is "Delete" then
+		do shell script "rm " & pathFile
+	else if doDel is "Keep" then
+		error number -128
+	end if
+	
+	
 end tell
 
 --- http://www.scriptogr.am/unforswearing
