@@ -46,6 +46,7 @@ A (comparatively) simplified version of many of the "Send URL to Safari" scripts
 ###links/dependencies  
 
 - [Caffeine App](http://lightheadsw.com/caffeine/) (or [here](http://macdownload.informer.com/caffeine)) - a menu bar application that prevents your monitor from sleeping. 
+  - if you don't want to add an additional application to your menubar, you can use ``pmset noidle`` and then simulate a ``control + c`` keystroke after the bulk of the script runs to cancel the ``pmset`` command (via key codes). [link](http://lifehacker.com/5767991/how-to-force-your-mac-to-stay-awake-indefinitely-via-the-command-line).     
   - if you are running a newer version of OSX (10.8 and up), you can replace the Caffeine application with the [caffeinate command](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man8/caffeinate.8.html): ``$ caffeinate -t 180`` where ``180`` is however many seconds you want to disable the screensaver/sleep.
 
 - [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) - use core location in applescripts.  
