@@ -45,7 +45,7 @@ A (comparatively) simplified version of many of the "Send URL to Safari" scripts
 <BR>
 ###links/dependencies  
 
-- [Caffeine App](http://lightheadsw.com/caffeine/) (or [here](http://macdownload.informer.com/caffeine)) - a menu bar application that prevents your monitor from sleeping. (If you don't want an extra application in your menubar, there are [Other](http://lifehacker.com/5767991/how-to-force-your-mac-to-stay-awake-indefinitely-via-the-command-line) [Ways](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man8/caffeinate.8.html) to script a disable sleep command via ```do shell script```.
+- [Caffeine App](http://lightheadsw.com/caffeine/) (or [here](http://macdownload.informer.com/caffeine)) - a menu bar application that prevents your monitor from sleeping. (If you don't want an extra application in your menubar, there are [Other Ways](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man8/caffeinate.8.html) to script a [disable sleep](http://lifehacker.com/5767991/how-to-force-your-mac-to-stay-awake-indefinitely-via-the-command-line) command via ```do shell script```.
                                                                                     
 - [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) - use core location in applescripts.  
 
