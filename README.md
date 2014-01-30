@@ -40,12 +40,15 @@ Scripts to enhance my limited terminal usage.
                                                                                     
 - [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) - use core location in applescripts.  
 
-- [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line. 
+- [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line.    
+
+- [I have also created a few Gists](https://gist.github.com/unforswearing) for application-specific scripts.  
+
 
 - Details about my amateur scripting successes can be found on my [Applescript blog](http://www.scriptogr.am/unforswearing)
 
 
 <BR>
 ###legal
-All scripts are provided AS IS without warranty, etc, etc. All scripts tested on 10.6 and 10.7, and there is a chance that they will not work with newer versions of OSX. Take the plunge. 
+All scripts are provided AS IS without warranty, etc, etc. All scripts tested on 10.6 and 10.7, and there is a chance that they will not work with newer versions of OSX. Feel free to use parts/all of these scripts in your fancy project (you are encouraged to drop me a line if you do). Take the plunge.  
 
