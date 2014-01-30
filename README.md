@@ -33,12 +33,6 @@ A collection of sketches and beginnings of scripts
 ∫∫ **Terminal GUI**  
 Scripts to enhance my limited terminal usage.
 
-∫∫ **Camtasia Auto Record Timer.scpt**  
-A script that uses a few items from the hidden applescript dictionary for Camtasia. Useful for when you need to capture video of something happening on the screen, but won't be around to do it manually. May be variably functional, though the last few tests were successful. 
-
-∫∫ **Google Chrome Tab Closer.scpt**  
-Does what it says, though more specifically, it closes all tabs, but keeps the application open. 
-
 ∫∫ **Chrome to Safari**  
 A (comparatively) simplified version of many of the "Send URL to Safari" scripts I have seen. 
 
