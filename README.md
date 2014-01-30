@@ -33,9 +33,6 @@ A collection of sketches and beginnings of scripts
 ∫∫ **Terminal GUI**  
 Scripts to enhance my limited terminal usage.
 
-∫∫ **Chrome to Safari**  
-A (comparatively) simplified version of many of the "Send URL to Safari" scripts I have seen. 
-
 <BR>
 ###links/dependencies  
 
