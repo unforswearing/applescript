@@ -7,31 +7,31 @@ A collection of various applescripts I have created. I try to keep them general 
 <BR>
 ###scripts 
 ∫∫ **Application Services**  
-launch, watch, and quit applications via several scripts
+``launch, watch, and quit applications via several scripts``
 
 ∫∫ **File and Folder Actions**  
-Several scripts I deploy as services. 
+``Several scripts I deploy as services.``
 
 ∫∫ **Location Helper Scripts**  
-A few scripts that use the Location Helper application
+``A few scripts that use the Location Helper application``
 
 ∫∫ **Notational Velocity**  
-A few Notational Velocity scripts. 
+``A few Notational Velocity scripts.``
 
 ∫∫ **Pandoc and Textutils**  
-Scripts that use the above mentioned command line tools to convert documents to different formats. 
+``Scripts that use the above mentioned command line tools to convert documents to different formats.``
 
 ∫∫ **Sounds Scripts**  
-Scripts to adjust the speaker and microphone without opening System Preferences
+``Scripts to adjust the speaker and microphone without opening System Preferences.``
 
 ∫∫ **Temperature Conversion**    
-Convert temperature between Fahrenheit and Celsius (and others soon). 
+``Convert temperature between Fahrenheit, Celsius, and Kelvin.``
 
 ∫∫ **Templates**  
-A collection of sketches and beginnings of scripts
+ ``A collection of sketches and beginnings of scripts.``
 
 ∫∫ **Terminal GUI**  
-Scripts to enhance my limited terminal usage.
+``Scripts to enhance my limited terminal usage.``
 
 <BR>
 ###links/dependencies  
