@@ -6,31 +6,31 @@ A collection of various applescripts I have created. I try to keep them general 
 
 <BR>
 ###scripts 
-∫∫ **Application Services**  
+∫∫ [**Application Services**](https://github.com/unforswearing/applescript/tree/master/Application%20Services)  
 ``launch, watch, and quit applications via several scripts``
 
-∫∫ **File and Folder Actions**  
+∫∫ [**File and Folder Actions**](https://github.com/unforswearing/applescript/tree/master/File%20and%20Folder%20Actions)  
 ``Several scripts I deploy as services.``
 
-∫∫ **Location Helper Scripts**  
+∫∫ [**Location Helper Scripts**](https://github.com/unforswearing/applescript/tree/master/Location%20Helper%20Scripts)  
 ``A few scripts that use the Location Helper application``
 
-∫∫ **Notational Velocity**  
+∫∫ [**Notational Velocity**](https://github.com/unforswearing/applescript/tree/master/Notational%20Velocity)  
 ``A few Notational Velocity scripts.``
 
-∫∫ **Pandoc and Textutils**  
+∫∫ [**Pandoc and Textutils**](https://github.com/unforswearing/applescript/tree/master/Pandoc%20and%20Textutils)  
 ``Scripts that use the above mentioned command line tools to convert documents to different formats.``
 
-∫∫ **Sounds Scripts**  
+∫∫ [**Sounds Scripts**](https://github.com/unforswearing/applescript/tree/master/Sound%20Scripts)  
 ``Scripts to adjust the speaker and microphone without opening System Preferences.``
 
-∫∫ **Temperature Conversion**    
+∫∫ [**Temperature Conversion**](https://github.com/unforswearing/applescript/tree/master/Temperature%20Conversion)    
 ``Convert temperature between Fahrenheit, Celsius, and Kelvin.``
 
-∫∫ **Templates**  
+∫∫ [**Templates**](https://github.com/unforswearing/applescript/tree/master/Templates)  
  ``A collection of sketches and beginnings of scripts.``
 
-∫∫ **Terminal GUI**  
+∫∫ [**Terminal GUI**](https://github.com/unforswearing/applescript/tree/master/Terminal%20GUI)  
 ``Scripts to enhance my limited terminal usage.``
 
 <BR>
