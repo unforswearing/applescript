@@ -1,4 +1,4 @@
-applescript
+applescripts.
 ============
 <BR>
 ###overview
