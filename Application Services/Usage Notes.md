@@ -1,5 +1,5 @@
 ##Usage Notes for Application Services  
-___
+
 
 **App Killer** will quit any application you choose. I have this bound to a key combination, and find that I use it saves me from having to "activate" applications that are not in focus just so I can quit them. There is a slight issue with apps that run multiple similarly-named processes (like Google Chrome) but otherwise, it is effective.  
 <BR>
