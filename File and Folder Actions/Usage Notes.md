@@ -9,12 +9,9 @@
 <BR>
 **JPGtoPNG** converts images, because I have a problem with JPG for no reason.  
 <BR>
-**List Folder Contents** will provide you with a text file containing the contents of a folder of your choosing.  
-<BR>  
-**Move Files To Folder** saves you from dragging and dropping single files between folders. I have this saved as a  system service.  
-<BR>  
-**Open File When Connected** allows you to select a file or application to open, and pings google until you are reconnected to the internet. Saves me from having to remember to print that file, or write that note when I get home from work.  
-<BR>  
+**List Folder Contents** will provide you with a text file containing the contents of a folder of your choosing.  <BR>  
+**Move Files To Folder** saves you from dragging and dropping single files between folders. I have this saved as a  system service.  <BR>  
+**Open File When Connected** allows you to select a file or application to open, and pings google until you are reconnected to the internet. Saves me from having to remember to print that file, or write that note when I get home from work.  <BR>  
 **Script Launcher** like the **App Launcher** in the [Application Services](https://github.com/unforswearing/applescript/tree/master/Application%20Services) section, this script launches other applescripts. You have to hardcode the path to your applescript folder in order for it to work, but it's a neat little thing.   
 <BR>
 ___
