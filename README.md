@@ -2,7 +2,7 @@ applescripts.
 ============
 <BR>
 ###overview
-A collection of various applescripts I have created. I try to keep them general (rather than application specific) so that they could be useful to as many people as possible. If you run into any problems with these scripts, feel free to let me know! ``notes@theforeverarrow.com`` or via [issue tracker](https://github.com/unforswearing/applescript/issues). 
+A collection of various applescripts I have created. I try to keep them general (rather than application specific) so that they could be useful to as many people as possible, though many of them are specific to my personal needs. 
 
 <BR>
 ###scripts 
