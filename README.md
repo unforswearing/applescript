@@ -1,11 +1,11 @@
-applescripts.
+Applescripts.
 ============
 <BR>
-###overview
+###Overview
 A collection of various applescripts I have created. I try to keep them general (rather than application specific) so that they could be useful to as many people as possible, though many of them are specific to my personal needs. 
 
 <BR>
-###scripts 
+###Script Categories 
 ∫∫ [**Application Services**](https://github.com/unforswearing/applescript/tree/master/Application%20Services)  
 ``launch, watch, and quit applications via several scripts``
 
@@ -34,7 +34,7 @@ A collection of various applescripts I have created. I try to keep them general 
 ``Scripts to enhance my limited terminal usage.``
 
 <BR>
-###links/dependencies  
+###Links/Dependencies  
 
 - [Caffeine App](http://lightheadsw.com/caffeine/) (or [here](http://macdownload.informer.com/caffeine)) - a menu bar application that prevents your monitor from sleeping. (If you don't want an extra application in your menubar, there are [Other Ways](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man8/caffeinate.8.html) to script a [disable sleep](http://lifehacker.com/5767991/how-to-force-your-mac-to-stay-awake-indefinitely-via-the-command-line) command via ```do shell script```.
                                                                                     
@@ -45,10 +45,10 @@ A collection of various applescripts I have created. I try to keep them general 
 - [I have also created a few Gists](https://gist.github.com/unforswearing) for application-specific scripts.  
 
 
-- Details about my amateur scripting successes can be found on my [Applescript blog](http://www.scriptogr.am/unforswearing)
+- Details about my amateur scripting successes can be found on my [Applescript blog](http://www.scriptogr.am/unforswearing). Let me write your documentation. 
 
 
 <BR>
-###legal
+###"Legal"
 All scripts are provided AS IS without warranty, etc, etc. All scripts tested on 10.6 and 10.7, and there is a chance that they will not work with newer versions of OSX. Feel free to use parts/all of these scripts in your fancy project (you are encouraged to drop me a line if you do). Take the plunge.  
 
