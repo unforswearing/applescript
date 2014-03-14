@@ -10,7 +10,7 @@ on idle
 		set location to location as text
 		set home to "YOUR LOCATION" 
 		        # Use the "Get Yr Lat Long" script to find your coordinates
-		        # replace "YOUR LOCATION" with these coords.  
+		        # Replace "YOUR LOCATION" with these coords.  
 		        # You should only need the first four digits (e.g. "12.34") 
 		        # Use additional digits from the coords (e.g. "12.3456") if work/coffeeshop is very close to home. 
 		if location does not contain home then
