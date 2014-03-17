@@ -7,7 +7,7 @@ A collection of various applescripts I have created. I try to keep them general 
 <BR>
 ###Script Categories 
 ∫∫ [**Application Services**](https://github.com/unforswearing/applescript/tree/master/Application%20Services)  
-``launch, watch, and quit applications via several scripts``
+``Launch, watch, and quit applications via several scripts``
 
 ∫∫ [**File and Folder Actions**](https://github.com/unforswearing/applescript/tree/master/File%20and%20Folder%20Actions)  
 ``Several scripts I deploy as services.``
