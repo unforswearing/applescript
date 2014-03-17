@@ -16,10 +16,10 @@ A collection of various applescripts I have created. I try to keep them general 
 ``A few scripts that use the Location Helper application``
 
 ∫∫ [**Notational Velocity**](https://github.com/unforswearing/applescript/tree/master/Notational%20Velocity)  
-``A few Notational Velocity scripts.``
+``Scripts to speed up Notational Velocity processes.``
 
 ∫∫ [**Pandoc and Textutils**](https://github.com/unforswearing/applescript/tree/master/Pandoc%20and%20Textutils)  
-``Scripts that use the above mentioned command line tools to convert documents to different formats.``
+``Automating document conversion via command line``
 
 ∫∫ [**Sounds Scripts**](https://github.com/unforswearing/applescript/tree/master/Sound%20Scripts)  
 ``Scripts to adjust the speaker and microphone without opening System Preferences.``
@@ -42,7 +42,7 @@ A collection of various applescripts I have created. I try to keep them general 
 
 - [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line.    
 
-- [I have also created a few Gists](https://gist.github.com/unforswearing) for application-specific scripts.  
+- I have also created a few [Gists](https://gist.github.com/unforswearing) for more specific applescript/bash related tasks.  
 
 
 - Details about my amateur scripting successes can be found on my [Applescript blog](http://www.scriptogr.am/unforswearing). Let me write your documentation. 
