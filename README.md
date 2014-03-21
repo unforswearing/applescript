@@ -27,11 +27,11 @@ A collection of various applescripts I have created. I try to keep them general 
 ∫∫ [**Temperature Conversion**](https://github.com/unforswearing/applescript/tree/master/Temperature%20Conversion)    
 ``Convert temperature between Fahrenheit, Celsius, and Kelvin.``
 
-∫∫ [**Templates**](https://github.com/unforswearing/applescript/tree/master/Templates)  
- ``A collection of sketches and beginnings of scripts.``
-
 ∫∫ [**Terminal GUI**](https://github.com/unforswearing/applescript/tree/master/Terminal%20GUI)  
 ``Scripts to enhance my limited terminal usage.``
+
+∫∫ [**Time and Date**](https://github.com/unforswearing/applescript/tree/master/Time%20and%20Date)  
+ ``Various ways to work with times and dates in Applescript``
 
 <BR>
 ###Links/Dependencies  
