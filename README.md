@@ -50,5 +50,5 @@ A collection of various applescripts I have created. I try to keep them general 
 
 <BR>
 ###"Legal"
-All scripts are provided AS IS without warranty, etc, etc. All scripts tested on 10.6 and 10.7, and there is a chance that they will not work with newer versions of OSX. Feel free to use parts/all of these scripts in your fancy project (you are encouraged to drop me a line if you do). Take the plunge.  
+All scripts are provided AS IS without warranty, etc, etc. Feel free to use parts/all of these scripts in your fancy project (you are encouraged to drop me a line if you do). Take the plunge.  
 
