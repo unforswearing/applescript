@@ -6,7 +6,7 @@ A collection of various applescripts I have created. I try to keep them general 
 
 <BR>
 ###Script Categories 
-Listed as folders above. Most scripts should be self-explanatory, however, short descriptions for each folder will come soon.  
+Listed as folders above. Most scripts should be self-explanatory, however, short descriptions for each folder will come soon as a 'README.md' file.  
 
 <BR>
 ###Links/Dependencies  
