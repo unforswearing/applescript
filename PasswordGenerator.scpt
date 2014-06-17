@@ -31,7 +31,3 @@ set punct3 to item 3 of m
 
 set passwerd to pass1 & punct3 & punct1 & x & punct2 & pass2 as text
 set the clipboard to passwerd
-
---- http://www.scriptogr.am/unforswearing
---- http://www.github.com/unforswearing
---- notes@theforeverarrow.com
