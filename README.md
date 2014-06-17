@@ -17,7 +17,8 @@ Listed as folders above. Most scripts should be self-explanatory, however, short
 
 - [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line.    
 
-- I have also created a few [Gists](https://gist.github.com/unforswearing) for more specific applescript/bash related tasks.  
+- I have also created a few [Gists](https://gist.github.com/unforswearing) for more specific applescript/bash related tasks. 
+- Also, check out my [Alfred Workflows](https://github.com/unforswearing/alfredWorkflows), including [dued](https://github.com/unforswearing/dued), which may be my favorite creation.  
 
 
 - Details about my amateur scripting successes can be found on my [Applescript blog](http://www.scriptogr.am/unforswearing). Let me write your documentation. 
