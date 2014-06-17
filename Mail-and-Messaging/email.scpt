@@ -3,7 +3,7 @@ tell application "Mail"
   activate
   delay 2
 	set msgbody to # the content of the email
-	set theSubject to "This is an email" -- the subject
+	set theSubject to "This is an email"
 	set theContent to msgbody
 	set theAddress to "someone.else@theiraddress.com" 
 	set msg to make new outgoing message with properties {subject:theSubject, content:theContent, visible:true}
