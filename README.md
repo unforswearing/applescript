@@ -6,32 +6,7 @@ A collection of various applescripts I have created. I try to keep them general 
 
 <BR>
 ###Script Categories 
-∫∫ [**Application Services**](https://github.com/unforswearing/applescript/tree/master/Application%20Services)  
-``Launch, watch, and quit applications via several scripts``
-
-∫∫ [**File and Folder Actions**](https://github.com/unforswearing/applescript/tree/master/File%20and%20Folder%20Actions)  
-``Several scripts I deploy as services.``
-
-∫∫ [**Location Helper Scripts**](https://github.com/unforswearing/applescript/tree/master/Location%20Helper%20Scripts)  
-``A few scripts that use the Location Helper application``
-
-∫∫ [**Notational Velocity**](https://github.com/unforswearing/applescript/tree/master/Notational%20Velocity)  
-``Scripts to speed up Notational Velocity processes.``
-
-∫∫ [**Pandoc and Textutils**](https://github.com/unforswearing/applescript/tree/master/Pandoc%20and%20Textutils)  
-``Automating document conversion via command line``
-
-∫∫ [**Sounds Scripts**](https://github.com/unforswearing/applescript/tree/master/Sound%20Scripts)  
-``Scripts to adjust the speaker and microphone without opening System Preferences.``
-
-∫∫ [**Temperature Conversion**](https://github.com/unforswearing/applescript/tree/master/Temperature%20Conversion)    
-``Convert temperature between Fahrenheit, Celsius, and Kelvin.``
-
-∫∫ [**Terminal GUI**](https://github.com/unforswearing/applescript/tree/master/Terminal%20GUI)  
-``Scripts to enhance my limited terminal usage.``
-
-∫∫ [**Time and Date**](https://github.com/unforswearing/applescript/tree/master/Time%20and%20Date)  
- ``Various ways to work with times and dates in Applescript``
+Listed as folders above. Most scripts should be self-explanatory, however, short descriptions for each folder will come soon.  
 
 <BR>
 ###Links/Dependencies  
