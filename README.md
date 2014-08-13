@@ -17,6 +17,8 @@ Listed as folders above. Most scripts should be self-explanatory, however, short
 
 - [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line.    
 
+- `Youtube-Post.scpt` requires [GoogleCL](https://code.google.com/p/googlecl/), which is also useful for blogger, google calendar, and contacts.      
+
 - I have also created a few [Gists](https://gist.github.com/unforswearing) for more specific applescript/bash related tasks, with a growing list of shell scripts also located [here](https://github.com/unforswearing/Shell).  
 
 - Also, check out my [Alfred Workflows](https://github.com/unforswearing/alfredWorkflows), including [dued](https://github.com/unforswearing/dued), which may be my favorite creation.  
