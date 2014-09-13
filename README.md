@@ -6,7 +6,19 @@ A collection of various applescripts I have created. I try to keep them general 
 
 <BR>
 ###Script Categories 
-Listed as folders above. Most scripts should be self-explanatory, however, short descriptions for each folder will come soon as a 'README.md' file.  
+
+Application Services
+Display Settings
+File and Folder Actions
+Location Helper Scripts
+Mail-and-Messaging
+Markdown Tools
+Notational Velocity
+Pandoc and Textutils
+Sound Scripts
+Temperature Conversion
+Terminal
+Time and Date 
 
 <BR>
 ###Links/Dependencies  
