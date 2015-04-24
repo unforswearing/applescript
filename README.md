@@ -3,7 +3,6 @@ Applescripts.
 <BR>
 ###Overview
 A collection of various applescripts I have created. I try to keep them general (rather than application specific) so that they could be useful to as many people as possible, though many of them are specific to my personal needs. 
-
 <BR>
 ###Script Categories 
 
@@ -19,7 +18,6 @@ Sound Scripts
 Temperature Conversion  
 Terminal  
 Time and Date   
-
 <BR>
 ###Links/Dependencies  
 
@@ -36,8 +34,6 @@ Time and Date
 - I have also created a few [Gists](https://gist.github.com/unforswearing) for more specific applescript/bash related tasks, with a growing list of shell scripts also [located here](https://github.com/unforswearing/Shell).  
 
 - Also, check out my [Alfred Workflows](https://github.com/unforswearing/alfredWorkflows), including [dued](https://github.com/unforswearing/dued), which may be my favorite creation.  
-
-
 <BR>
 ###"Legal"
 All scripts are provided AS IS without warranty, etc, etc. Feel free to use parts/all of these scripts in your fancy project (you are encouraged to drop me a line if you do). Take the plunge.  
