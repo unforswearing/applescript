@@ -37,6 +37,8 @@ Time and Date
 - Also, check out my [Alfred Workflows](https://github.com/unforswearing/alfredWorkflows), including [dued](https://github.com/unforswearing/dued), which may be my favorite creation.  
 <BR>  
 
-###"Legal"
-All scripts are provided AS IS without warranty, etc, etc. Feel free to use parts/all of these scripts in your fancy project (you are encouraged to drop me a line if you do). Take the plunge.  
+### License
 
+MIT
+
+Take the plunge.  
