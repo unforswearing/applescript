@@ -3,6 +3,7 @@ Applescripts.
 <BR>
 ###Overview
 A collection of various applescripts I have created. I try to keep them general (rather than application specific) so that they could be useful to as many people as possible, though many of them are specific to my personal needs.  <br>  
+
 Note: This collection isn't updated much anymore, but I'll add to it as needed. I may also create a Javascript for Automation section in the near future. Stay tuned. 
 
 <BR>
@@ -16,6 +17,7 @@ Mail-and-Messaging
 Markdown Tools  
 Notational Velocity  
 Pandoc and Textutils  
+Snippets
 Sound Scripts   
 Temperature Conversion  
 Terminal  
