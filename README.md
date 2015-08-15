@@ -17,7 +17,7 @@ Mail-and-Messaging
 Markdown Tools  
 Notational Velocity  
 Pandoc and Textutils  
-Snippets
+Snippets  
 Sound Scripts   
 Temperature Conversion  
 Terminal  
