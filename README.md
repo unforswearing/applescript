@@ -42,6 +42,5 @@ Time and Date
 
 ### License
 
-MIT
-
+GNU General Public License v3.0
 Take the plunge.  
