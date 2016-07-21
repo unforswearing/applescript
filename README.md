@@ -20,7 +20,8 @@ Note: This collection isn't updated much anymore, but I'll add to it as needed.
 - [Sound Scripts](https://github.com/unforswearing/applescript/tree/master/Sound%20Scripts)  
 - [Temperature Conversion](https://github.com/unforswearing/applescript/tree/master/Temperature%20Conversion)  
 - [Terminal](https://github.com/unforswearing/applescript/tree/master/Terminal) 
-- [Time and Date](https://github.com/unforswearing/applescript/tree/master/Time%20and%20Date)  
+- [Time and Date](https://github.com/unforswearing/applescript/tree/master/Time%20and%20Date) 
+- [Miscellaneous](https://github.com/unforswearing/applescript/tree/master/-%20Misc) 
 <BR><BR>
 
 
