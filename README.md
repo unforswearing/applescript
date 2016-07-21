@@ -9,7 +9,7 @@ Note: This collection isn't updated much anymore, but I'll add to it as needed.
 
 ## Script Categories 
 
-- [Application Services](/applescript/tree/master/Application%20Services)
+- [Application Services](https://github.com/unforswearing/applescript/tree/master/Application%20Services)
 - [Display Settings](https://github.com/unforswearing/applescript/tree/master/Display%20Settings)  
 - [File and Folder Actions](https://github.com/unforswearing/applescript/tree/master/File%20and%20Folder%20Actions)  
 - [Location Helper Scripts](https://github.com/unforswearing/applescript/tree/master/Location%20Helper%20Scripts)  
