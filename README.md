@@ -9,8 +9,8 @@ Note: This collection isn't updated much anymore, but I'll add to it as needed. 
 <BR>
 ###Script Categories 
 
-Application Services  
-Display Settings  
+- [Application Services](/applescript/tree/master/Application%20Services)
+- [Display Settings]()
 File and Folder Actions  
 Location Helper Scripts  
 Mail-and-Messaging  
