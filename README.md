@@ -32,6 +32,6 @@ Note: This collection isn't updated much anymore, but I'll add to it as needed.
 - [Twitter Scripter](http://www.mousedown.net/mouseware/TwitterScripter.html) - interact with twitter via applescript.  
 - [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line.    
 - `Youtube-Post.scpt` requires [GoogleCL](https://code.google.com/p/googlecl/), which is also useful for blogger, google calendar, and contacts (sadly defunct).      
-- I have also created a few [Gists](https://gist.github.com/unforswearing) for more specific applescript/bash related tasks, with a growing list of shell scripts also [located here](https://github.com/unforswearing/Shell).  
+- I have also created a few [Gists](https://gist.github.com/unforswearing) for more specific applescript/bash related tasks.  
 - Also, check out my [Alfred Workflows](https://github.com/unforswearing/alfredWorkflows), including [dued](https://github.com/unforswearing/dued), which may be my favorite creation.  
 <BR><BR>
