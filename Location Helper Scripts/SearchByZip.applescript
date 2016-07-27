@@ -14,6 +14,6 @@ tell application "Finder"
 	display dialog "Search Results: " & futureLocation with icon note buttons {"OK"} default button {"OK"}
 end tell
 
--- unforswearing.com
+--- unforswearing.com
 --- http://www.github.com/unforswearing
---- notes@theforeverarrow.com
+--- hello@unforswearing.com

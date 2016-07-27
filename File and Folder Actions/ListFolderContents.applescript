@@ -16,6 +16,6 @@ tell application "Finder"
 end tell
 fileNames
 
--- unforswearing.com
+--- unforswearing.com
 --- http://www.github.com/unforswearing
---- notes@theforeverarrow.com
+--- hello@unforswearing.com
