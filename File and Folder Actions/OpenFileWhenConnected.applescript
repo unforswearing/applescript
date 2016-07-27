@@ -18,6 +18,6 @@ end repeat
 
 tell application "Finder" to open new_file
 
-unforswearing.com
+-- unforswearing.com
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com

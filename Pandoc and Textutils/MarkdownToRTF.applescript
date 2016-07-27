@@ -36,6 +36,6 @@ on error
 	display alert "The file " & tempHTML & " could not be deleted!"
 end try
 
-unforswearing.com
+-- unforswearing.com
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com

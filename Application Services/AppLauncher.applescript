@@ -41,6 +41,6 @@ end
 --- This script should be bound to a key combo for max usefulness 
 ---      i use Control + Space because it is similar to Alfred and Spolight key combos
  
-unforswearing.com
+-- unforswearing.com
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com
