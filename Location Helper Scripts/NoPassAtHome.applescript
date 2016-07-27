@@ -9,10 +9,10 @@ on idle
 		set location to get location coordinates
 		set location to location as text
 		set home to "YOUR LOCATION" 
-		        # Use the "Get Yr Lat Long" script to find your coordinates
-		        # Replace "YOUR LOCATION" with these coords.  
-		        # You should only need the first four digits (e.g. "12.34") 
-		        # Use additional digits from the coords (e.g. "12.3456") if work/coffee shop is very close to home. 
+		        -- Use the "Get Yr Lat Long" script to find your coordinates
+		        -- Replace "YOUR LOCATION" with these coords.  
+		        -- You should only need the first four digits (e.g. "12.34") 
+		        -- Use additional digits from the coords (e.g. "12.3456") if work/coffee shop is very close to home. 
 		if location does not contain home then
 			tell application "System Events" to set require password to wake of security preferences to true
 		else if location contains home then
