@@ -1,5 +1,5 @@
 -- Highlight text, run the script to copy and process the text, text is then pasted back into NV with link brackets.
--- Documentation located at http://scriptogr.am/unforswearing/post/notational-velocity-automating-links
+unforswearing.com
 
 tell application "Notational Velocity"
 	activate
@@ -16,6 +16,6 @@ tell application "Notational Velocity"
 	end tell
 end tell
 
---- http://www.scriptogr.am/unforswearing
+unforswearing.com
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com

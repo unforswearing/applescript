@@ -21,6 +21,6 @@ on idle
 	end tell
 end idle
 
---- http://www.scriptogr.am/unforswearing
+unforswearing.com
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com

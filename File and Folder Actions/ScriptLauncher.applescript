@@ -14,6 +14,6 @@ else if scriptLaunch contains scriptLaunch then
 end if
 scriptRun
 
---- http://www.scriptogr.am/unforswearing
+unforswearing.com
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com

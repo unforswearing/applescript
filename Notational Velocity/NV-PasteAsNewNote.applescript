@@ -6,6 +6,6 @@ tell application "nvALT"
 end tell
 
 
---- http://www.scriptogr.am/unforswearing
+unforswearing.com
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com

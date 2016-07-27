@@ -14,6 +14,6 @@ delay hhour * danswer
 tell application applic to quit
 
  
---- http://www.scriptogr.am/unforswearing
+unforswearing.com
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com

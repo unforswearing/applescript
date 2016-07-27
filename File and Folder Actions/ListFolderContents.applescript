@@ -16,6 +16,6 @@ tell application "Finder"
 end tell
 fileNames
 
---- http://www.scriptogr.am/unforswearing
+unforswearing.com
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com

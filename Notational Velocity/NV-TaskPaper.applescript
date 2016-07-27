@@ -21,6 +21,6 @@ tell application "Finder"
 	end tell
 end tell
 
---- http://www.scriptogr.am/unforswearing
+unforswearing.com
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com

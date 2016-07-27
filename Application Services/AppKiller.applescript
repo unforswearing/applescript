@@ -26,6 +26,6 @@ else if applaunch contains applaunch then
 end if
 
 
---- http://www.scriptogr.am/unforswearing
+unforswearing.com
 --- http://www.github.com/unforswearing
 --- notes@theforeverarrow.com
