@@ -2,9 +2,8 @@ Applescripts.
 ============
 <BR>
 ## Overview
-A collection of various applescripts I have created. I try to keep them general (rather than application specific) so that they could be useful to as many people as possible, though many of them are specific to my personal needs.  <br>  
+A collection of various applescripts, many by me. I try to keep them general (rather than application specific) so that they could be useful to as many people as possible, though many of them are specific to my personal needs.  <br>  
 
-Note: This collection isn't updated much anymore, but I'll add to it as needed. 
 <BR><BR>
 
 ## Script Categories 
@@ -34,4 +33,10 @@ Note: This collection isn't updated much anymore, but I'll add to it as needed.
 - `Youtube-Post.scpt` requires [GoogleCL](https://code.google.com/p/googlecl/), which is also useful for blogger, google calendar, and contacts (sadly defunct).      
 - I have also created a few [Gists](https://gist.github.com/unforswearing) for more specific applescript/bash related tasks.  
 - Also, check out my [Alfred Workflows](https://github.com/unforswearing/alfredWorkflows), including [dued](https://github.com/unforswearing/dued), which may be my favorite creation.  
+<BR><BR>
+
+## Contributing  
+
+If you have a script or snippet that you'd like me to include in this repo, feel free to open a new pull request!  
+
 <BR><BR>
