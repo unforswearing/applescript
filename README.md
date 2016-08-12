@@ -40,3 +40,4 @@ A collection of various applescripts, many by me. I try to keep them general (ra
 If you have a script or snippet that you'd like me to include in this repo, feel free to open a new pull request!  
 
 <BR><BR>
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type ='text/javascript'>kofiwidget2.init('Buy Me a Coffee', '#46b798', 'A0757WK');kofiwidget2.draw();</script> 
