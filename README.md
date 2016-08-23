@@ -28,7 +28,8 @@ This repository serves as a collection/library of various applescripts, many cre
 - [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) - use core location in applescripts.   
 - [Twitter Scripter](http://www.mousedown.net/mouseware/TwitterScripter.html) - interact with twitter via applescript.  
 - [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line.    
-- `Youtube-Post.scpt` requires [GoogleCL](https://code.google.com/p/googlecl/), which is also useful for blogger, google calendar, and contacts (sadly defunct).      
+- <s>`Youtube-Post.scpt` requires [GoogleCL](https://code.google.com/p/googlecl/), which is also useful for blogger, google calendar, and contacts</s> 
+	- GoogleCL is sadly defunct. Any associated scripts remain for posterity.      
 - I have also created a few [Gists](https://gist.github.com/unforswearing) for more specific applescript/bash related tasks.  
 - Also, check out my [Alfred Workflows](https://github.com/unforswearing/alfredWorkflows), including [dued](https://github.com/unforswearing/dued), which may be my favorite creation.  
 <BR><BR>
