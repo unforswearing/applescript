@@ -1,9 +1,7 @@
 Applescripts.
 ============
-<BR>
-## Overview
-A collection of various applescripts, many by me. I try to keep them general (rather than application specific) so that they could be useful to as many people as possible, though many of them are specific to my personal needs.  <br>  
 
+This repository serves as a collection/library of various applescripts, many created by me. In creating this library, I wanted to make these scripts universal (rather than application specific) so they can be used for most any purpose, however many of them are specific to my needs. 
 <BR><BR>
 
 ## Script Categories 
