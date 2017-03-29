@@ -42,7 +42,7 @@ A non-exhaustive list of interesting Applescript resources on Github:
 - [iTerm and Sublime Text](https://github.com/fallroot/applescript-applets)  
 - [Window Layouts with Alfred and Applescript](https://github.com/jgallen23/layouts)  
 - [Execute Applescript with Node.js](https://github.com/TooTallNate/node-applescript)  
-- [Execute Applescript with Go[(https://github.com/everdev/mack)  
+- [Execute Applescript with Go](https://github.com/everdev/mack)  
 - [Time Tracking with Omnifocus, Tyme, and Fantastical 2](https://github.com/fuxialexander/Applescript)   
 <BR><BR>
 
