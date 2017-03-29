@@ -49,6 +49,7 @@ A non-exhaustive list of interesting Applescript resources on Github:
 ## Contributing
 
 If you have a script or snippet that you'd like me to include in this repo, feel free to open a new pull request!
-<BR><BR>
-Or support ongoing development and maintenance by clicking the button below!
+<br>
+<span style="padding-bottom: 10px;">Or support ongoing development and maintenance by clicking the button below!</span>
+
 <a href='https://ko-fi.com/A0757WK' target='_blank'><img height='32' style='border:0px;height:32px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=b' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
