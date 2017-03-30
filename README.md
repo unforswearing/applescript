@@ -44,8 +44,8 @@ A non-exhaustive list of interesting Applescript resources on Github:
 - [Execute Applescript with Node.js](https://github.com/TooTallNate/node-applescript)  
 - [Execute Applescript with Go](https://github.com/everdev/mack)  
 - [Time Tracking with Omnifocus, Tyme, and Fantastical 2](https://github.com/fuxialexander/Applescript)   
-<BR><BR>
-
+<BR>  
+  
 Other useful Applescript resources/tutorials/etc:  
 
 - [MacOSX Automation/Applescript](https://macosxautomation.com/applescript/)  
@@ -54,6 +54,7 @@ Other useful Applescript resources/tutorials/etc:
 - [MacRumors/Mac Programming Forum](https://forums.macrumors.com/forums/mac-programming.73/)
     - not explicitly applescript related, but [searching for "Applescript"](https://forums.macrumors.com/search/4005546/?q=Applescript&o=date) provides some useful results
 
+<BR><BR>
 
 ## Contributing
 
