@@ -46,6 +46,15 @@ A non-exhaustive list of interesting Applescript resources on Github:
 - [Time Tracking with Omnifocus, Tyme, and Fantastical 2](https://github.com/fuxialexander/Applescript)   
 <BR><BR>
 
+Other useful Applescript resources/tutorials/etc:  
+
+- [MacOSX Automation/Applescript](https://macosxautomation.com/applescript/)  
+    - written by [Sal Soghoian](http://macosautomation.com/about.html), the former Apple product manager for automation technologies
+- [MacScripter Forums](http://www.macscripter.net/index.php)   
+- [MacRumors/Mac Programming Forum](https://forums.macrumors.com/forums/mac-programming.73/)
+    - not explicitly applescript related, but [searching for "Applescript"](https://forums.macrumors.com/search/4005546/?q=Applescript&o=date) provides some useful results
+
+
 ## Contributing
 
 If you have a script or snippet that you'd like me to include in this repo, feel free to open a new pull request!
