@@ -34,23 +34,23 @@ This repository serves as a collection/library of personal applescripts. In crea
 - Also, check out my [Alfred Workflows](https://github.com/unforswearing/alfredWorkflows), including [dued](https://github.com/unforswearing/dued), which may be my favorite creation.
 <BR><BR>
 
-## Other Applescript Resources/Libraries    
+## Other Applescript Resources/Libraries
 
-A non-exhaustive list of interesting Applescript resources on Github:  
+A non-exhaustive list of interesting Applescript resources on Github:
 
-- [OmniFocus and Evernote (and etc)](https://github.com/geekcomputers/Applescript)  
-- [iTerm and Sublime Text](https://github.com/fallroot/applescript-applets)  
-- [Window Layouts with Alfred and Applescript](https://github.com/jgallen23/layouts)  
-- [Execute Applescript with Node.js](https://github.com/TooTallNate/node-applescript)  
-- [Execute Applescript with Go](https://github.com/everdev/mack)  
-- [Time Tracking with Omnifocus, Tyme, and Fantastical 2](https://github.com/fuxialexander/Applescript)   
-<BR>  
-  
-Other useful Applescript resources/tutorials/etc:  
+- [OmniFocus and Evernote (and etc)](https://github.com/geekcomputers/Applescript)
+- [iTerm and Sublime Text](https://github.com/fallroot/applescript-applets)
+- [Window Layouts with Alfred and Applescript](https://github.com/jgallen23/layouts)
+- [Execute Applescript with Node.js](https://github.com/TooTallNate/node-applescript)
+- [Execute Applescript with Go](https://github.com/everdev/mack)
+- [Time Tracking with Omnifocus, Tyme, and Fantastical 2](https://github.com/fuxialexander/Applescript)
+<BR>
 
-- [MacOSX Automation/Applescript](https://macosxautomation.com/applescript/)  
+Other useful Applescript resources/tutorials/etc:
+
+- [MacOSX Automation/Applescript](https://macosxautomation.com/applescript/)
     - written by [Sal Soghoian](http://macosautomation.com/about.html), the former Apple product manager for automation technologies
-- [MacScripter Forums](http://www.macscripter.net/index.php)   
+- [MacScripter Forums](http://www.macscripter.net/index.php)
 - [MacRumors/Mac Programming Forum](https://forums.macrumors.com/forums/mac-programming.73/)
     - not explicitly applescript related, but [searching for "Applescript"](https://forums.macrumors.com/search/4005546/?q=Applescript&o=date) provides some useful results
 
@@ -60,6 +60,4 @@ Other useful Applescript resources/tutorials/etc:
 
 If you have a script, snippet, or resource that you'd like me to include in this repo, feel free to open a new pull request!
 <br><br>
-Or support ongoing development and maintenance by clicking the button below!<br>  
-
-<a href='https://ko-fi.com/A0757WK' target='_blank'><img height='32' style='border:0px;height:32px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=b' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+If you want to support development, feel free to [send me a buck or two](https://www.paypal.me/unforswearing)!  
