@@ -1,5 +1,5 @@
 repeat
-	set ffolder to "Users:alvincharity:Music"
+	set ffolder to "Users:Me:Music"
 	tell application "Finder"
 		set x to ffolder as alias
 		
