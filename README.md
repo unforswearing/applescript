@@ -11,18 +11,18 @@ A backup of this repository exists at [unforswearing.com/applescript](https://un
 ## Script Categories
 
 - [Application Services](/Application%20Services)
-- [Display Settings](https://github.com/unforswearing/applescript/tree/master/Display%20Settings)
-- [File and Folder Actions](https://github.com/unforswearing/applescript/tree/master/File%20and%20Folder%20Actions)
-- [Location Helper Scripts](https://github.com/unforswearing/applescript/tree/master/Location%20Helper%20Scripts)
-- [Markdown Tools](https://github.com/unforswearing/applescript/tree/master/Markdown%20Tools)
-- [Notational Velocity](http://github.com/unforswearing/applescript/tree/master/Notational%20Velocity)
-- [Pandoc and Textutils](https://github.com/unforswearing/applescript/tree/master/Pandoc%20and%20Textutils)
-- [Snippets](https://github.com/unforswearing/applescript/tree/master/Snippets)
-- [Sound Scripts](https://github.com/unforswearing/applescript/tree/master/Sound%20Scripts)
-- [Temperature Conversion](https://github.com/unforswearing/applescript/tree/master/Temperature%20Conversion)
-- [Terminal](https://github.com/unforswearing/applescript/tree/master/Terminal)
-- [Time and Date](https://github.com/unforswearing/applescript/tree/master/Time%20and%20Date)
-- [Miscellaneous](https://github.com/unforswearing/applescript/tree/master/-%20Misc)
+- [Display Settings](/Display%20Settings)
+- [File and Folder Actions](/File%20and%20Folder%20Actions)
+- [Location Helper Scripts](/Location%20Helper%20Scripts)
+- [Markdown Tools](/Markdown%20Tools)
+- [Notational Velocity](/Notational%20Velocity)
+- [Pandoc and Textutils](/Pandoc%20and%20Textutils)
+- [Snippets](/Snippets)
+- [Sound Scripts](/Sound%20Scripts)
+- [Temperature Conversion](/Temperature%20Conversion)
+- [Terminal](/Terminal)
+- [Time and Date](/Time%20and%20Date)
+- [Miscellaneous](/-%20Misc)
 <BR><BR>
 
 
