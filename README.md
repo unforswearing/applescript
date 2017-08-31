@@ -72,4 +72,4 @@ If you have a script, snippet, or resource that you'd like me to include in this
 
 If you want to support development, feel free to [send me a buck or two](https://www.paypal.me/unforswearing)!
 
-<br><br><br>
+<br><br><br><br>
