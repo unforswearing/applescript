@@ -4,11 +4,13 @@ Applescript
 This repository serves as a collection/library of personal applescripts. In creating this library, I wanted to make these scripts universal rather than application specific, however many of the were created to meet a specific need, and might not be universally applicable to your useage.
 
 Please reach out if you need help reworking any of these scripts for your project.
+
+A backup of this repository exists at [unforswearing.com/applescript](https://unforswearing.com/applescript)
 <BR><BR>
 
 ## Script Categories
 
-- [Application Services](https://github.com/unforswearing/applescript/tree/master/Application%20Services)
+- [Application Services](/Application%20Services)
 - [Display Settings](https://github.com/unforswearing/applescript/tree/master/Display%20Settings)
 - [File and Folder Actions](https://github.com/unforswearing/applescript/tree/master/File%20and%20Folder%20Actions)
 - [Location Helper Scripts](https://github.com/unforswearing/applescript/tree/master/Location%20Helper%20Scripts)
