@@ -71,3 +71,5 @@ A non-exhaustive list of interesting Applescript resources on Github:
 If you have a script, snippet, or resource that you'd like me to include in this repo, feel free to open a new pull request!
 
 If you want to support development, feel free to [send me a buck or two](https://www.paypal.me/unforswearing)!
+
+<br><br><br>
