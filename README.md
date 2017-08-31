@@ -1,7 +1,9 @@
-Applescripts.
+Applescript
 ============
 
-This repository serves as a collection/library of personal applescripts. In creating this library, I wanted to make these scripts universal rather than application specific, however many of them are specific to my needs.
+This repository serves as a collection/library of personal applescripts. In creating this library, I wanted to make these scripts universal rather than application specific, however many of the were created to meet a specific need, and might not be universally applicable to your useage.
+
+Please reach out if you need help reworking any of these scripts for your project.
 <BR><BR>
 
 ## Script Categories
@@ -38,15 +40,21 @@ This repository serves as a collection/library of personal applescripts. In crea
 
 A non-exhaustive list of interesting Applescript resources on Github:
 
+**Note Taking/Task Management**
 - [OmniFocus and Evernote (and etc)](https://github.com/geekcomputers/Applescript)
+
+**Coding**
 - [iTerm and Sublime Text](https://github.com/fallroot/applescript-applets)
-- [Window Layouts with Alfred and Applescript](https://github.com/jgallen23/layouts)
+- [Custom Iterm Applescripts for Alfred](https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred)
 - [Execute Applescript with Node.js](https://github.com/TooTallNate/node-applescript)
 - [Execute Applescript with Go](https://github.com/everdev/mack)
+
+**Productivity**
+- [Window Layouts with Alfred and Applescript](https://github.com/jgallen23/layouts)
 - [Time Tracking with Omnifocus, Tyme, and Fantastical 2](https://github.com/fuxialexander/Applescript)
 <BR>
 
-Other useful Applescript resources/tutorials/etc:
+**Other useful Applescript resources / tutorials / etc**
 
 - [MacOSX Automation/Applescript](https://macosxautomation.com/applescript/)
     - written by [Sal Soghoian](http://macosautomation.com/about.html), the former Apple product manager for automation technologies
@@ -59,5 +67,5 @@ Other useful Applescript resources/tutorials/etc:
 ## Contributing
 
 If you have a script, snippet, or resource that you'd like me to include in this repo, feel free to open a new pull request!
-<br><br>
-If you want to support development, feel free to [send me a buck or two](https://www.paypal.me/unforswearing)!  
+
+If you want to support development, feel free to [send me a buck or two](https://www.paypal.me/unforswearing)!
