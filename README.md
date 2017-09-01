@@ -11,18 +11,18 @@ A backup of this repository exists at [unforswearing.com/applescript](https://un
 ## Script Categories
 
 - [Application Services](./Application%20Services)
-- [Display Settings](/Display%20Settings)
-- [File and Folder Actions](/File%20and%20Folder%20Actions)
-- [Location Helper Scripts](/Location%20Helper%20Scripts)
-- [Markdown Tools](/Markdown%20Tools)
-- [Notational Velocity](/Notational%20Velocity)
-- [Pandoc and Textutils](/Pandoc%20and%20Textutils)
-- [Snippets](/Snippets)
-- [Sound Scripts](/Sound%20Scripts)
-- [Temperature Conversion](/Temperature%20Conversion)
-- [Terminal](/Terminal)
-- [Time and Date](/Time%20and%20Date)
-- [Miscellaneous](/-%20Misc)
+- [Display Settings](./Display%20Settings)
+- [File and Folder Actions](./File%20and%20Folder%20Actions)
+- [Location Helper Scripts](./Location%20Helper%20Scripts)
+- [Markdown Tools](./Markdown%20Tools)
+- [Notational Velocity](./Notational%20Velocity)
+- [Pandoc and Textutils](./Pandoc%20and%20Textutils)
+- [Snippets](./Snippets)
+- [Sound Scripts](./Sound%20Scripts)
+- [Temperature Conversion](./Temperature%20Conversion)
+- [Terminal](./Terminal)
+- [Time and Date](./Time%20and%20Date)
+- [Miscellaneous](./-%20Misc)
 <BR><BR>
 
 
