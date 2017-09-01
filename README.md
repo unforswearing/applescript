@@ -10,7 +10,7 @@ A backup of this repository exists at [unforswearing.com/applescript](https://un
 
 ## Script Categories
 
-- [Application Services](/Application%20Services)
+- [Application Services](./Application%20Services)
 - [Display Settings](/Display%20Settings)
 - [File and Folder Actions](/File%20and%20Folder%20Actions)
 - [Location Helper Scripts](/Location%20Helper%20Scripts)
