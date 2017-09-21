@@ -5,7 +5,7 @@ This repository serves as a collection/library of personal applescripts. In crea
 
 Please reach out if you need help reworking any of these scripts for your project.
 
-This repository exists at [github.com/unforswearing/applescript](https://github.com/unforswearing/applescript ), [unforswearing.com/applescript](https://unforswearing.com/applescript), and [gitlab.com/unforswearing/applescript](https://gitlab.com/unforswearing/applescript)
+Copies of this repository exist at [github](https://github.com/unforswearing/applescript ), [gitlab](https://gitlab.com/unforswearing/applescript), and [my personal site](https://unforswearing.com/applescript)
 <BR><BR>
 
 ## Script Categories
