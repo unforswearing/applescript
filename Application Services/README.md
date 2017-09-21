@@ -9,8 +9,3 @@
 <BR>
 **App Watcher** is a script that allows you to set an application to watch, wait for that application to launch, and then open a file or another application. This could be a little more robust, but it is another proof-of-concept type script that I wrote for fun. 
 
-___
-
-
-<BR>
-questions or comments about any of these scripts can be mailed to ``notes (at) theforeverarrow.com``
