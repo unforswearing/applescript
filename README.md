@@ -64,7 +64,7 @@ A non-exhaustive list of interesting Applescript resources on Github:
 - [MacRumors/Mac Programming Forum](https://forums.macrumors.com/forums/mac-programming.73/)
     - not explicitly applescript related, but [searching for "Applescript"](https://forums.macrumors.com/search/4005546/?q=Applescript&o=date) provides some useful results
 
-<BR><BR>
+<BR>
 
 ## Contributing
 

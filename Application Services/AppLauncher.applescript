@@ -35,9 +35,6 @@ else if applaunch contains applaunch then
 end if
 end
 
-
---- I have seen so many variations of application launchers that I wanted to try to make one myself
---- As you can tell, it is super super basic, with no functionality beyond launching and quitting apps
 --- This script should be bound to a key combo for max usefulness 
 ---      i use Control + Space because it is similar to Alfred and Spolight key combos
  
