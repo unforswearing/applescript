@@ -64,10 +64,10 @@ A non-exhaustive list of interesting Applescript resources on Github:
 
 <BR>
 
-## Contributing
+## Bugs / Contributing
 
-If you have a script, snippet, or resource that you'd like me to include in this repo, feel free to open a new pull request!
+Scripts in this repo were tested on OS X/MacOS "Lion" through "Sierra." Please open an issue or pull request if a script does not work as intended. 
 
-If you want to support development, feel free to [send me a buck or two](https://www.paypal.me/unforswearing)!
+If you have a script, snippet, or resource that you'd like me to include in this repo, feel free to open a new pull request.
 
 <br><br><br><br>
