@@ -8,12 +8,9 @@ tell application "Finder"
 		set ddcd to (geocode address futureLocation) as list
 		get item 1 of item 1 of ddcd
 		set vvv to item 1 of item 1 of ddcd
-		get formatted_address of vvv
+		-- get formatted_address of vvv
 		set futureLocation to formatted_address of vvv
 	end tell
 	display dialog "Search Results: " & futureLocation with icon note buttons {"OK"} default button {"OK"}
 end tell
 
---- unforswearing.com
---- http://www.github.com/unforswearing
---- hello@unforswearing.com
