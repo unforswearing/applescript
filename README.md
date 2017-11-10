@@ -21,38 +21,54 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 - [Terminal](./Terminal)
 - [Time and Date](./Time%20and%20Date)
 - [Miscellaneous](./-%20Misc)
-<BR><BR>
+  <BR><BR>
 
 
 ## Links/Dependencies
 
 - [Caffeine App](http://lightheadsw.com/caffeine/) (or [here](http://macdownload.informer.com/caffeine)) - a menu bar application that prevents your monitor from sleeping. (If you don't want an extra application in your menubar, here is [a different way](http://lifehacker.com/5767991/how-to-force-your-mac-to-stay-awake-indefinitely-via-the-command-line), and if you're on 10.8+ [you can go ahead and use this command](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man8/caffeinate.8.html). Both work via ```do shell script```.)
-- [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) - use core location in applescripts.
-- [Twitter Scripter](http://www.mousedown.net/mouseware/TwitterScripter.html) - interact with twitter via applescript.
 - [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line.
 - <s>`Youtube-Post.scpt` requires [GoogleCL](https://code.google.com/p/googlecl/), which is also useful for blogger, google calendar, and contacts</s>
-	- GoogleCL is sadly defunct. Any associated scripts remain for posterity.
+  - GoogleCL is sadly defunct. Any associated scripts remain for posterity.
 - I have also created a few [Gists](https://gist.github.com/unforswearing) for more specific applescript/bash related tasks.
 - Also, check out my [Alfred Workflows](https://github.com/unforswearing/alfredWorkflows), including [dued](https://github.com/unforswearing/dued), which may be my favorite creation.
-<BR><BR>
+  <BR><BR>
 
 ## Other Applescript Resources/Libraries
 
-A non-exhaustive list of interesting Applescript resources on Github:
+**Tools for Developing Scripts**
 
-**Note Taking/Task Management**
+*Free*
+
+- [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) - use core location in applescripts.
+- [Twitter Scripter](http://www.mousedown.net/mouseware/TwitterScripter.html) - interact with twitter via applescript.
+
+
+
+*Paid*
+
+- [CursorCoordinates](http://www.limitpointstore.com/products/cursorcoordinates/)  - get x,y coordinates for clicking and window positions
+- [Dialog Maker](https://sites.google.com/site/dialogmakerhelp/) - tool to help create dialog boxes
+
+
+
+**A non-exhaustive list of interesting Applescript resources on Github:**
+
+*Note Taking/Task Management*
 - [OmniFocus and Evernote (and etc)](https://github.com/geekcomputers/Applescript)
 
-**Coding**
+*Coding*
 - [iTerm and Sublime Text](https://github.com/fallroot/applescript-applets)
 - [Custom Iterm Applescripts for Alfred](https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred)
 - [Execute Applescript with Node.js](https://github.com/TooTallNate/node-applescript)
 - [Execute Applescript with Go](https://github.com/everdev/mack)
 
-**Productivity**
+*Productivity*
 - [Window Layouts with Alfred and Applescript](https://github.com/jgallen23/layouts)
 - [Time Tracking with Omnifocus, Tyme, and Fantastical 2](https://github.com/fuxialexander/Applescript)
-<BR>
+  <BR>
+
+
 
 **Other useful Applescript resources / tutorials / etc**
 
