@@ -30,7 +30,7 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 - [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line.
 - <s>`Youtube-Post.scpt` requires [GoogleCL](https://code.google.com/p/googlecl/), which is also useful for blogger, google calendar, and contacts</s>
   - GoogleCL is sadly defunct. Any associated scripts remain for posterity.
-- I have also created a few [Gists](https://gist.github.com/unforswearing) for more specific applescript/bash related tasks.
+- I have also created [a few Gists](https://gist.github.com/unforswearing?s=applescript) for more specific applescript/bash related tasks.
 - Also, check out my [Alfred Workflows](https://github.com/unforswearing/alfredWorkflows), including [dued](https://github.com/unforswearing/dued), which may be my favorite creation.
   <BR><BR>
 
@@ -48,7 +48,11 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 *Paid*
 
 - [CursorCoordinates](http://www.limitpointstore.com/products/cursorcoordinates/)  - get x,y coordinates for clicking and window positions
+
 - [Dialog Maker](https://sites.google.com/site/dialogmakerhelp/) - tool to help create dialog boxes
+
+  <br><br>
+
 
 
 
@@ -66,7 +70,9 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 *Productivity*
 - [Window Layouts with Alfred and Applescript](https://github.com/jgallen23/layouts)
 - [Time Tracking with Omnifocus, Tyme, and Fantastical 2](https://github.com/fuxialexander/Applescript)
-  <BR>
+  <BR><BR>
+
+
 
 
 
@@ -78,7 +84,9 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 - [MacRumors/Mac Programming Forum](https://forums.macrumors.com/forums/mac-programming.73/)
     - not explicitly applescript related, but [searching for "Applescript"](https://forums.macrumors.com/search/4005546/?q=Applescript&o=date) provides some useful results
 
-<BR>
+<BR><BR>
+
+
 
 ## Bugs / Contributing
 
