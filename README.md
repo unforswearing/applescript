@@ -42,20 +42,15 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 *Free*
 
 - [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) - use core location in applescripts.
-- [Twitter Scripter](http://www.mousedown.net/mouseware/TwitterScripter.html) - interact with twitter via applescript.
-
-
+- [Twitter Scripter](http://www.mousedown.net/mouseware/TwitterScripter.html) - interact with Twitter via applescript.
 
 *Paid*
 
-- [CursorCoordinates](http://www.limitpointstore.com/products/cursorcoordinates/)  - get x,y coordinates for clicking and window positions
-
+- [CursorCoordinates](http://www.limitpointstore.com/products/cursorcoordinates/)  - get x,y coordinates for clicking and window positions.
 - [Dialog Maker](https://sites.google.com/site/dialogmakerhelp/) - tool to help create dialog boxes
+- [Script Debugger](https://latenightsw.com/) - An integrated development environment for Applescript
 
-  <br><br>
-
-
-
+<br>
 
 **A non-exhaustive list of interesting Applescript resources on Github:**
 
@@ -71,11 +66,8 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 *Productivity*
 - [Window Layouts with Alfred and Applescript](https://github.com/jgallen23/layouts)
 - [Time Tracking with Omnifocus, Tyme, and Fantastical 2](https://github.com/fuxialexander/Applescript)
-  <BR><BR>
 
-
-
-
+<br>
 
 **Other useful Applescript resources / tutorials / etc**
 
@@ -85,14 +77,18 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 - [MacRumors/Mac Programming Forum](https://forums.macrumors.com/forums/mac-programming.73/)
     - not explicitly applescript related, but [searching for "Applescript"](https://forums.macrumors.com/search/4005546/?q=Applescript&o=date) provides some useful results
 
-<BR><BR>
+<br>
 
+**For JavaScript Users**
 
+- [JavaScript for Automation Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook/wiki) 
+  - JavaScript was added as a MacOS automation tool in version 10.10. If you are familiar with (or would prefer to learn) JavaScript, this cookbook is a great resource. 
+
+<br>
 
 ## Bugs / Contributing
 
-Scripts in this repo were tested on OS X/MacOS "Lion" through "Sierra." Please open an issue or pull request if a script does not work as intended. 
+Scripts in this repo were tested on OS X/MacOS **Lion** through **Sierra**. Please open an issue or pull request if a script does not work as intended. 
 
 If you have a script, snippet, or resource that you'd like me to include in this repo, feel free to open a new pull request.
 
-<br><br><br><br>
