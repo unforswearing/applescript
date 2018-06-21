@@ -92,3 +92,7 @@ Scripts in this repo were tested on OS X/MacOS **Lion** through **Sierra**. Plea
 
 If you have a script, snippet, or resource that you'd like me to include in this repo, feel free to open a new pull request.
 
+## To Do
+
+- [ ] Reorganize repo and readme
+- [ ] Use better (more descriptive) filenames
