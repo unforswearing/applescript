@@ -21,7 +21,6 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 - [Temperature Conversion](./Temperature%20Conversion)
 - [Terminal](./Terminal)
 - [Time and Date](./Time%20and%20Date)
-- [Miscellaneous](./-%20Misc)
   <BR><BR>
 
 
