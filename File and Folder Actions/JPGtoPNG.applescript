@@ -11,10 +11,10 @@
 	set baseName to text 1 thru -5 of baseName
 	
 	
-	set destFolder to destFolder & "/" & baseName & ".png"
-	set destFolder to quoted form of destFolder
+	set destFile to destFolder & "/" & baseName & ".png"
+	set destFile to quoted form of destFolder
 	
-	do shell script "sips -s format png " & pathFile & " --out " & destFolder
+	do shell script "sips -s format png " & pathFile & " --out " & destFile
 	
 	
 --- see also: Terminal GUI - https://github.com/unforswearing/applescript/tree/master/Terminal%20GUI
