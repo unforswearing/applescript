@@ -13,6 +13,6 @@ else if termcommand contains termcommand then
 	end try
 end if
 
---- unforswearing.com
+
 --- http://www.github.com/unforswearing
---- hello@unforswearing.com
+

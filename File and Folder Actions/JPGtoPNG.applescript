@@ -19,6 +19,6 @@
 	
 --- see also: Terminal GUI - https://github.com/unforswearing/applescript/tree/master/Terminal%20GUI
 	
---- unforswearing.com
+
 --- http://www.github.com/unforswearing
---- hello@unforswearing.com
+

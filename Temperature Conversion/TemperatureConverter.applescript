@@ -47,6 +47,6 @@ else if whichconv is "Kelvin to Celsius" then
 end if
 
 
---- unforswearing.com
+
 --- http://www.github.com/unforswearing
---- hello@unforswearing.com
+

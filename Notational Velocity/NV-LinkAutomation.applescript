@@ -1,5 +1,5 @@
 -- Highlight text, run the script to copy and process the text, text is then pasted back into NV with link brackets.
---- unforswearing.com
+
 
 tell application "Notational Velocity"
 	activate
@@ -16,6 +16,6 @@ tell application "Notational Velocity"
 	end tell
 end tell
 
---- unforswearing.com
+
 --- http://www.github.com/unforswearing
---- hello@unforswearing.com
+

@@ -14,6 +14,6 @@ delay hhour * danswer
 tell application applic to quit
 
  
---- unforswearing.com
+
 --- http://www.github.com/unforswearing
---- hello@unforswearing.com
+

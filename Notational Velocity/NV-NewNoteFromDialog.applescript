@@ -16,6 +16,6 @@ tell application "nvALT"
 end tell
 
 
---- unforswearing.com
+
 --- http://www.github.com/unforswearing
---- hello@unforswearing.com
+

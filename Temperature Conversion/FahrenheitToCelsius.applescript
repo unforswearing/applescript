@@ -5,6 +5,6 @@ set ftemp to text returned of (display dialog "Convert Fahrenheit to Celsius" de
 set conversion1 to (ftemp - 32) * 5 / 9
 display dialog "The temperature is " & conversion1 & " Celsius" buttons {"Ok"} default button "Ok"
 
---- unforswearing.com
+
 --- http://www.github.com/unforswearing
---- hello@unforswearing.com
+

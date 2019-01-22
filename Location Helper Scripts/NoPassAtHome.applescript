@@ -21,6 +21,6 @@ on idle
 	end tell
 end idle
 
---- unforswearing.com
+
 --- http://www.github.com/unforswearing
---- hello@unforswearing.com
+

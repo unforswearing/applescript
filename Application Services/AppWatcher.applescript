@@ -42,6 +42,6 @@ tell application "Finder"
 	end repeat
 end tell
  
---- unforswearing.com
+
 --- http://www.github.com/unforswearing
---- hello@unforswearing.com
+

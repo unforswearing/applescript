@@ -29,6 +29,6 @@ if theChoice contains "Defined Area" then
 	do shell script "screencapture -s ~/Desktop/" & newIMGname & ".png"
 end if
 
---- unforswearing.com
+
 --- http://www.github.com/unforswearing
---- hello@unforswearing.com
+

@@ -26,6 +26,6 @@ else if applaunch contains applaunch then
 end if
 
 
---- unforswearing.com
+
 --- http://www.github.com/unforswearing
---- hello@unforswearing.com
+
