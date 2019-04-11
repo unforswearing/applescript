@@ -26,7 +26,8 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 
 ## Links/Dependencies
 
-- [Caffeine App](http://lightheadsw.com/caffeine/) (or [here](http://macdownload.informer.com/caffeine)) - a menu bar application that prevents your monitor from sleeping. (If you don't want an extra application in your menubar, here is [a different way](https://apple.stackexchange.com/a/1459), and if you're on 10.8+ [you can go ahead and use this command](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man8/caffeinate.8.html). Both work via ```do shell script```.)
+- [Caffeine App](http://lightheadsw.com/caffeine/) - a menu bar application that prevents your monitor from sleeping. There are also [several](https://itunes.apple.com/us/app/caffeinated-anti-sleep-app/id1362171212?mt=12) [other](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) [applications](https://github.com/newmarcel/KeepingYouAwake) that achieve the same goal.  
+  - If you don't want an extra application in your menubar, here is [a different way](https://apple.stackexchange.com/a/1459), and if you're on 10.8+ you can use the `caffeinate` command, though [it may be broken after Yosemite (10.10)](https://discussions.apple.com/thread/7858428). Both work via `do shell script`.
 - [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line.
 - <s>`Youtube-Post.scpt` requires [GoogleCL](https://code.google.com/p/googlecl/), which is also useful for blogger, google calendar, and contacts</s>
   - GoogleCL is sadly defunct. Any associated scripts remain for posterity.
