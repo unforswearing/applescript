@@ -48,7 +48,7 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 *Paid*
 
 - [CursorCoordinates](http://www.limitpointstore.com/products/cursorcoordinates/)  - get x,y coordinates for clicking and window positions.
-- [Dialog Maker](https://sites.google.com/site/dialogmakerhelp/) - tool to help create dialog boxes
+- [Dialog Maker](https://itunes.apple.com/us/app/dialog-maker/id457389999?mt=12) - tool to help create dialog boxes
 - [Script Debugger](https://latenightsw.com/) - An integrated development environment for Applescript
 
 <br>
