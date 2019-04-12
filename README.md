@@ -33,8 +33,8 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 - <s>`Youtube-Post.scpt` requires [GoogleCL](https://code.google.com/p/googlecl/), which is also useful for blogger, google calendar, and contacts</s>
   - GoogleCL is sadly defunct. Any associated scripts remain for posterity.
 - I have also created [a few Gists](https://gist.github.com/unforswearing?s=applescript) for more specific applescript/bash related tasks.
-- Also, check out my [Alfred Workflows](https://github.com/unforswearing/alfredWorkflows), including [dued](https://github.com/unforswearing/dued), which may be my favorite creation.
-  <BR><BR>
+
+<BR><BR>
 
 ## Other Applescript Resources/Libraries
 
