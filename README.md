@@ -28,7 +28,7 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 
 - [Caffeine App](http://lightheadsw.com/caffeine/) - a menu bar application that prevents your monitor from sleeping. There are also [several](https://itunes.apple.com/us/app/caffeinated-anti-sleep-app/id1362171212?mt=12) [other](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) [applications](https://github.com/newmarcel/KeepingYouAwake) that achieve the same goal.  
   - If you don't want an extra application in your menubar you can use [`pmset noidle`](https://apple.stackexchange.com/a/1459), and if you're on 10.8+ you can use the `caffeinate` command, though [it may be broken after Yosemite (10.10)](https://discussions.apple.com/thread/7858428). Both work via `do shell script`.
-- [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/textutil.1.html) - document conversion via the command line.
+- [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://ss64.com/osx/textutil.html) - document conversion via the command line.
 - <s>`Youtube-Post.scpt` requires [GoogleCL](https://code.google.com/p/googlecl/), which is also useful for blogger, google calendar, and contacts</s>
   - GoogleCL is sadly defunct. Any associated scripts remain for posterity.
 - I have also created [a few Gists](https://gist.github.com/unforswearing?s=applescript) for more specific applescript/bash related tasks.
@@ -88,11 +88,12 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 
 ## Bugs / Contributing
 
-Scripts in this repo were tested on OS X/MacOS **Lion** through **Sierra**. Please open an issue or pull request if a script does not work as intended. 
+Scripts in this repo were tested on OS X/MacOS **Lion** through **High Sierra**. Please open an issue or pull request if a script does not work as intended. 
 
 If you have a script, snippet, or resource that you'd like me to include in this repo, feel free to open a new pull request.
 
 ## To Do
 
+- [ ] Test scripts on 10.14 (Mojave)
 - [ ] Reorganize repo and readme
 - [ ] Use better (more descriptive) filenames
