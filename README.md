@@ -55,7 +55,8 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 
 **A non-exhaustive list of interesting Applescript resources on Github:**
 
-*[Github Trending Applescript Projects](https://github.com/trending/applescript)*  
+**[Github Trending Applescript Projects](https://github.com/trending/applescript)**
+<br>
 
 *Note Taking/Task Management*
 - [OmniFocus and Evernote (and etc)](https://github.com/geekcomputers/Applescript)
