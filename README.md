@@ -1,7 +1,9 @@
 Applescript
 ============
 
-This repository serves as a collection of Applescript snippets that can be used individually or part of a larger project. Many of these snippets were written as I was learning to use Applescript, and may not represent the best method of undertaking a particular task. Feel free to open an issue or pull request if you find that any of these files do not work for you. 
+This repository serves as a collection of Applescript snippets that can be used individually or part of a larger project. Many of these snippets were written as I was learning to use Applescript, and may not represent the best method of undertaking a particular task. Feel free to open an issue or pull request if you find that any of these files do not work for you. You may also open a pull request if you would like to add a script or snippet. 
+
+*Note that this repo is essentially in 'maintenance mode' and many scripts have not been tested with the latest version of MacOS (Mojave)*
 
 Copies of this repository exist at [Github](https://github.com/unforswearing/applescript ) and [Gitlab](https://gitlab.com/unforswearing/applescript).
 <BR><BR>
@@ -97,6 +99,8 @@ Scripts in this repo were tested on OS X/MacOS **Lion** through **High Sierra**.
 If you have a script, snippet, or resource that you'd like me to include in this repo, feel free to open a new pull request.
 
 ## To Do
+
+*This repo is essentially in 'maintenance mode', however the following will be completed as I have time*
 
 - [ ] Test scripts on 10.14 (Mojave)
 - [ ] Reorganize repo and readme
