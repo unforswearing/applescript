@@ -6,7 +6,7 @@ Applescript
 
 This repository serves as a collection of Applescript snippets that can be used individually or part of a larger project. Many of these snippets were written as I was learning to use Applescript, and may not represent the best method of undertaking a particular task. Feel free to open an issue or pull request if you find that any of these files do not work for you. You may also open a pull request if you would like to add a script or snippet. 
 
-Copies of this repository exist at [Github](https://github.com/unforswearing/applescript ) and [Gitlab](https://gitlab.com/unforswearing/applescript).
+Copies of this repository exist at [Github](https://github.com/unforswearing/applescript) and [Gitlab](https://gitlab.com/unforswearing/applescript).
 <BR><BR>
 
 ## Script Categories
@@ -80,6 +80,7 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 
 **Other useful Applescript resources / tutorials / etc**
 
+- [Introduction to AppleScript Language Guide](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html#//apple_ref/doc/uid/TP40000983)  
 - [MacOSX Automation/Applescript](https://macosxautomation.com/applescript/)
     - written by [Sal Soghoian](http://macosautomation.com/about.html), the former Apple product manager for automation technologies
 - [MacScripter Forums](http://www.macscripter.net/index.php)
