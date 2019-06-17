@@ -30,8 +30,10 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 ## Links/Dependencies
 
 - [Caffeine App](http://lightheadsw.com/caffeine/) - a menu bar application that prevents your monitor from sleeping. There are also [several](https://itunes.apple.com/us/app/caffeinated-anti-sleep-app/id1362171212?mt=12) [other](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) [applications](https://github.com/newmarcel/KeepingYouAwake) that achieve the same goal.  
-  - If you don't want an extra application in your menubar you can use [`pmset noidle`](https://apple.stackexchange.com/a/1459), or if you're on 10.8+ you can use the built-in `caffeinate` command, though [it may be broken after Yosemite (10.10)](https://discussions.apple.com/thread/7858428).  
-    - `caffeinate` and `pmset noidle` can be run via the `do shell script` Applescript command.
+  - If you don't want an extra application in your menubar you can use [`pmset noidle`](https://apple.stackexchange.com/a/1459)
+    - [this command must be run as `do shell script "/usr/bin/pmset noidle > /dev/null 2>&1 &"`](https://discussions.apple.com/thread/323661?answerId=323661021#323661021) to prevent the script from waiting for the shell command to complete.  
+  - Or if you're on 10.8+ you can use the built-in `caffeinate` command, though [it may be broken after Yosemite (10.10)](https://discussions.apple.com/thread/7858428).  
+  - `caffeinate` and `pmset noidle` can be run via the `do shell script` Applescript command.
 - [Pandoc](http://johnmacfarlane.net/pandoc/) and [Textutil](https://ss64.com/osx/textutil.html) - document conversion via the command line.
 - <s>`Youtube-Post.scpt` requires [GoogleCL](https://code.google.com/p/googlecl/), which is also useful for blogger, google calendar, and contacts</s>
   - GoogleCL is sadly defunct. Any associated scripts remain for posterity.
@@ -83,6 +85,7 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 - [MacScripter Forums](http://www.macscripter.net/index.php)
 - [MacRumors/Mac Programming Forum](https://forums.macrumors.com/forums/mac-programming.73/)
     - not explicitly applescript related, but [searching for "Applescript"](https://forums.macrumors.com/search/4005546/?q=Applescript&o=date) provides some useful results
+- [An exhaustive explanation of "do shell script" in Applescript](https://developer.apple.com/library/archive/technotes/tn2065/_index.html)  
 
 <br>
 
@@ -101,7 +104,7 @@ If you have a script, snippet, or resource that you'd like me to include in this
 
 ## To Do
 
-*This repo is essentially in 'maintenance mode', however the following will be completed as I have time*
+*To be completed as I have time*
 
 - [ ] Test scripts on 10.14 (Mojave)
 - [ ] Reorganize repo and readme
