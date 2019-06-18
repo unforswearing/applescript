@@ -61,7 +61,7 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 
 **A non-exhaustive list of interesting Applescript resources on Github:**
 
-**[Github Trending Applescript Projects](https://github.com/trending/applescript)**
+**[Github Applescript Projects](https://github.com/search?l=AppleScript&q=applescript&type=Repositories)**
 <br><br>
 
 *Note Taking/Task Management*
@@ -87,7 +87,7 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 - [MacScripter Forums](http://www.macscripter.net/index.php)
 - [MacRumors/Mac Programming Forum](https://forums.macrumors.com/forums/mac-programming.73/)
     - not explicitly applescript related, but [searching for "Applescript"](https://forums.macrumors.com/search/4005546/?q=Applescript&o=date) provides some useful results
-- [An exhaustive explanation of "do shell script" in Applescript](https://developer.apple.com/library/archive/technotes/tn2065/_index.html)  
+- [A thorough explanation of "do shell script" in Applescript](https://developer.apple.com/library/archive/technotes/tn2065/_index.html)  
 
 <br>
 
