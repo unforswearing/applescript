@@ -1,7 +1,7 @@
 Applescript
 ============
 
-> ⚠️Note that this repo is essentially in 'maintenance mode' and many scripts have not been tested with the latest version of MacOS (Mojave)
+> ⚠️ I will not be adding many new files to this repo until I am able to test the current scripts with the latest version of MacOS (Mojave). Feel free to open a pull request if you would like to add a new script file. 
 
 
 This repository serves as a collection of Applescript snippets that can be used individually or part of a larger project. Many of these snippets were written as I was learning to use Applescript, and may not represent the best method of undertaking a particular task. Feel free to open an issue or pull request if you find that any of these files do not work for you. You may also open a pull request if you would like to add a script or snippet. 
@@ -49,6 +49,7 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 
 - [Location Helper](http://www.mousedown.net/mouseware/LocationHelper.html) - use core location in applescripts.
 - [Twitter Scripter](http://www.mousedown.net/mouseware/TwitterScripter.html) - interact with Twitter via applescript.
+- [Platypus](https://sveinbjorn.org/platypus) - package applescripts with various other scripts (Shell, Python, etc) to create native MacOS applications.   
 
 *Paid*
 
