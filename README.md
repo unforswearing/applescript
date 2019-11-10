@@ -1,7 +1,7 @@
 Applescript
 ============
 
-> ⚠️ I will not be adding many new files to this repo until I am able to test the current scripts with the latest version of MacOS (Mojave). Feel free to open a pull request if you would like to add a new script file.
+> ⚠️ I will not be adding many new files to this repo until I am able to test the current scripts with the latest versions of MacOS (Mojave and Catalina). Feel free to open a pull request if you would like to add a new script file.
 
 
 This repository serves as a collection of Applescript snippets that can be used individually or part of a larger project. Many of these snippets were written as I was learning to use Applescript, and may not represent the best method of undertaking a particular task. Feel free to open an issue or pull request if you find that any of these files do not work for you. You may also open a pull request if you would like to add a script or snippet.
@@ -108,7 +108,7 @@ If you have a script, snippet, or resource that you'd like me to include in this
 
 *To be completed as I have time*
 
-- [ ] Test scripts on 10.14 (Mojave)
 - [ ] Reorganize repo and readme
-- [ ] Use better (more descriptive) filenames
-- [ ] Use better (less silly) variable names
+- [ ] Use more descriptive filenames
+- [ ] Use variable names that make more sense in context
+- [ ] Test scripts on 10.14 and 10.15
