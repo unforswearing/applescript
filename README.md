@@ -81,6 +81,8 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 
 **Other useful Applescript resources / tutorials / etc**
 
+- [Basics of Applescript](http://downloads.techbarrack.com/books/programming/AppleScript/website/index.html)
+  - Free ebook covering the foundations of applescript scripting. Published in 2014.
 - [Introduction to AppleScript Language Guide](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html#//apple_ref/doc/uid/TP40000983)
 - [MacOSX Automation/Applescript](https://macosxautomation.com/applescript/)
     - written by [Sal Soghoian](http://macosautomation.com/about.html), the former Apple product manager for automation technologies
