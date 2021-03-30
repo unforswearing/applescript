@@ -1,9 +1,7 @@
---- Like app launcher, but just kills apps
---- bind to a key combo for max efficiency 
---- enter app name and press the enter button on your keyboard or press the Go button
---- hit the enter button if you don't want to kill anything
---- added a way to find the process ID of hung applications and force quit using the "kill -KILL" command. 
----	may not work with applications that have many similarly named processes running (like "Google Chrome Helper" or "Google Chrome Renderer")
+(* 
+	Like app launcher, but just kills apps. Bind this script to a to a key combo for max efficiency. Enter the name of the app you would like to kill and press enter or "Go"
+	This may not work with applications that have many similarly named processes running (like "Google Chrome Helper" or "Google Chrome Renderer").
+*)
 
 activate
 set applaunch to text returned of (display dialog "" default answer "" buttons {"Go"} default button "Go")
@@ -23,8 +21,3 @@ else if applaunch contains applaunch then
 		end tell
 	end try
 end if
-
-
-
---- http://www.github.com/unforswearing
-
