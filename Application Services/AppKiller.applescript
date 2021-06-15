@@ -1,4 +1,4 @@
-(* 
+(*
 	Like app launcher, but just kills apps. Bind this script to a to a key combo for max efficiency. Enter the name of the app you would like to kill and press enter or "Go"
 	This may not work with applications that have many similarly named processes running (like "Google Chrome Helper" or "Google Chrome Renderer").
 *)
