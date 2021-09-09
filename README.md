@@ -6,6 +6,14 @@ This repository serves as a collection of Applescript snippets that can be used 
 Copies of this repository exist at [Github](https://github.com/unforswearing/applescript) and [Gitlab](https://gitlab.com/unforswearing/applescript).
 <BR><BR>
 
+# Index
+
+[Script Categories](https://github.com/unforswearing/applescript#script-categories)
+[Links / Dependencies](https://github.com/unforswearing/applescript#linksdependencies)
+[Resource Libraries](https://github.com/unforswearing/applescript#other-applescript-resourceslibraries)
+[Bugs / Contributing](https://github.com/unforswearing/applescript#bugs--contributing)
+[To Do](https://github.com/unforswearing/applescript#to-do)
+
 ## Script Categories
 
 - [Application Services](./Application%20Services)
