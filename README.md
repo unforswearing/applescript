@@ -8,11 +8,11 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 
 # Index
 
-[Script Categories](https://github.com/unforswearing/applescript#script-categories)
-[Links / Dependencies](https://github.com/unforswearing/applescript#linksdependencies)
-[Resource Libraries](https://github.com/unforswearing/applescript#other-applescript-resourceslibraries)
-[Bugs / Contributing](https://github.com/unforswearing/applescript#bugs--contributing)
-[To Do](https://github.com/unforswearing/applescript#to-do)
+[Script Categories](https://github.com/unforswearing/applescript#script-categories)  
+[Links / Dependencies](https://github.com/unforswearing/applescript#linksdependencies)  
+[Resource Libraries](https://github.com/unforswearing/applescript#other-applescript-resourceslibraries)  
+[Bugs / Contributing](https://github.com/unforswearing/applescript#bugs--contributing)  
+[To Do](https://github.com/unforswearing/applescript#to-do)  
 
 ## Script Categories
 
