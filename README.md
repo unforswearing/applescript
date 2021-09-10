@@ -1,7 +1,7 @@
 Applescript
 ============
 
-This repository serves as a collection of Applescript snippets that can be used individually or part of a larger project. Many of these snippets were written as I was learning to use Applescript, and may not represent the best method of undertaking a particular task. Feel free to open an issue or pull request if you find that any of these files do not work for you. You may also open a pull request if you would like to add a script or snippet.
+This repository is a collection of Applescript snippets that can be used individually or part of a larger project. Many of these snippets were written as I was learning to use Applescript and may not represent the best method of undertaking a particular task. Feel free to open an issue or pull request if you find that any of these files do not work for you. You may also open a pull request if you would like to add a script or snippet.
 
 Copies of this repository exist at [Github](https://github.com/unforswearing/applescript) and [Gitlab](https://gitlab.com/unforswearing/applescript).
 <BR><BR>
@@ -115,7 +115,6 @@ If you have a script, snippet, or resource that you'd like me to include in this
 
 *To be completed as I have time*
 
-- [ ] Reorganize repo and readme
-- [ ] Use more descriptive filenames
-- [ ] Use variable names that make more sense in context
-- [ ] Test scripts on 10.14 and 10.15
+- [ ] Actually update this repo
+- [ ] Reorganize and rename variables, folder structure, docs, readme
+- [ ] (Maybe) Build tests (via python nsapplescript)
