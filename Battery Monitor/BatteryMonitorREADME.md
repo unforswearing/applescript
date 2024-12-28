@@ -34,7 +34,28 @@ A macOS AppleScript that helps maintain optimal battery health by monitoring bat
    mkdir -p ~/Library/LaunchAgents
    nano ~/Library/LaunchAgents/com.user.batterymonitor.plist
    ```
-   - Copy the provided plist content into this file
+   - Copy the provided plist content into this file:
+   ```xml
+   <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+    <dict>
+        <key>Label</key>
+        <string>com.user.batterymonitor</string>
+        <key>ProgramArguments</key>
+        <array>
+            <string>/bin/bash</string>
+            <string>/Users/path/to/run_battery_monitor.sh</string>
+        </array>
+        <key>StartInterval</key>
+        <integer>300</integer>
+        <key>StandardOutPath</key>
+        <string>/tmp/batterymonitor.out</string>
+        <key>StandardErrorPath</key>
+        <string>/tmp/batterymonitor.err</string>
+    </dict>
+    </plist>
+   ```
    - Update the paths in the plist file to match your actual file locations
    - Load the launch agent:
    ```bash
