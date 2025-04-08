@@ -19,6 +19,7 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 ## Script Categories
 
 - [Application Services](./Application%20Services)
+- [Battery Monitor](./Battery%20Monitor)
 - [Display Settings](./Display%20Settings)
 - [File and Folder Actions](./File%20and%20Folder%20Actions)
 - [Location Helper Scripts](./Location%20Helper%20Scripts)
