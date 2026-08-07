@@ -1,19 +1,23 @@
 Applescript
 ============
 
-This repository is a collection of Applescript snippets that can be used individually or part of a larger project. Many of these snippets were written as I was learning to use Applescript and may not represent the best method of undertaking a particular task. Feel free to open an issue or pull request if you find that any of these files do not work for you. You may also open a pull request if you would like to add a script or snippet.
+> [!IMPORTANT]
+> **Aug 7, 2026:** I have moved away from using AppleScript and haven't had time to update the code in this repository. Some of these scripts may not work with more recent versions of MacOS, however most of these snippets are basic enough that you should not run into many issues. This repository may be archived in the near future. Thanks to all visitors and contributors.
 
-Copies of this repository exist at [Github](https://github.com/unforswearing/applescript) and [Gitlab](https://gitlab.com/unforswearing/applescript).
+This repository is a collection of Applescript snippets that can be used individually or part of a larger project. Many of these snippets were written as I was learning to use Applescript and may not represent the best method of undertaking a particular task.
+
+This code lives at [Github](https://github.com/unforswearing/applescript).
+
 <BR><BR>
 
 <!--
 # Index
 
-[Script Categories](https://github.com/unforswearing/applescript#script-categories)  
-[Links / Dependencies](https://github.com/unforswearing/applescript#linksdependencies)  
-[Resource Libraries](https://github.com/unforswearing/applescript#other-applescript-resourceslibraries)  
-[Bugs / Contributing](https://github.com/unforswearing/applescript#bugs--contributing)  
-[To Do](https://github.com/unforswearing/applescript#to-do)  
+[Script Categories](https://github.com/unforswearing/applescript#script-categories)
+[Links / Dependencies](https://github.com/unforswearing/applescript#linksdependencies)
+[Resource Libraries](https://github.com/unforswearing/applescript#other-applescript-resourceslibraries)
+[Bugs / Contributing](https://github.com/unforswearing/applescript#bugs--contributing)
+[To Do](https://github.com/unforswearing/applescript#to-do)
 -->
 
 ## Script Categories
@@ -37,7 +41,8 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 
 ## Links/Dependencies
 
-- [Caffeine App](http://lightheadsw.com/caffeine/) - a menu bar application that prevents your monitor from sleeping. There are also [several](https://itunes.apple.com/us/app/caffeinated-anti-sleep-app/id1362171212?mt=12) [other](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) [applications](https://github.com/newmarcel/KeepingYouAwake) that achieve the same goal.
+- <s>[Caffeine App](http://lightheadsw.com/caffeine/) - a menu bar application that prevents your monitor from sleeping.</s> The original Caffeine App is no longer available.
+  - There are also [several](https://itunes.apple.com/us/app/caffeinated-anti-sleep-app/id1362171212?mt=12) [other](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) [applications](https://github.com/newmarcel/KeepingYouAwake) that achieve the same goal.
   - If you don't want an extra application in your menubar you can use [`pmset noidle`](https://apple.stackexchange.com/a/1459)
     - [this command must be run as `do shell script "/usr/bin/pmset noidle > /dev/null 2>&1 &"`](https://discussions.apple.com/thread/323661?answerId=323661021#323661021) to prevent the script from waiting for the shell command to complete.
   - Or if you're on 10.8+ you can use the built-in `caffeinate` command, though [it may be broken after Yosemite (10.10)](https://discussions.apple.com/thread/7858428).
@@ -50,6 +55,9 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 <BR><BR>
 
 ## Other Applescript Resources/Libraries
+
+> [!NOTE]
+> There may be broken links below, however you should be able to find these resources with a basic Google / DuckDuckGo search.
 
 **Tools for Developing Scripts**
 
@@ -110,14 +118,5 @@ Copies of this repository exist at [Github](https://github.com/unforswearing/app
 
 ## Bugs / Contributing
 
-Scripts in this repo were tested on OS X/MacOS **Lion** through **High Sierra**. Please open an issue or pull request if a script does not work as intended.
+Scripts in this repo were tested on OS X/MacOS **Lion** through **High Sierra**. Some scripts may not work on more recent versions of MacOS.
 
-If you have a script, snippet, or resource that you'd like me to include in this repo, feel free to open a new pull request.
-
-## To Do
-
-*To be completed as I have time*
-
-- [ ] Actually update this repo
-- [ ] Reorganize and rename variables, folder structure, docs, readme
-- [ ] (Maybe) Build tests (via python nsapplescript)
