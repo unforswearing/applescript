@@ -3,6 +3,7 @@ Applescript
 
 > [!IMPORTANT]
 > **Aug 7, 2026:** I have moved away from using AppleScript and haven't had time to update the code in this repository. Some of these scripts may not work with more recent versions of MacOS, however most of these snippets are basic enough that you should not run into many issues. This repository may be archived in the near future. Thanks to all visitors and contributors.
+<BR><BR>
 
 This repository is a collection of Applescript snippets that can be used individually or part of a larger project. Many of these snippets were written as I was learning to use Applescript and may not represent the best method of undertaking a particular task.
 
